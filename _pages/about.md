@@ -13,7 +13,3 @@ Zhimin Zhao is a PhD student in [SAIL](https://sail.cs.queensu.ca) lab. He was o
 Research Interest
 ======
 His current research interests include LLMOps, SE4AI, etc.
-
-Contact
-=====
-Email: knightyzhao at gmail dot com
