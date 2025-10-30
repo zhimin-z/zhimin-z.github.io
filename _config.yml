@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhimin Zhao"
 description              : "<i>\"[TODO]\"</i>"
-repository               : "Siyuexi.github.io"
+repository               : "zhimin-z.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=n56W86YAAAAJ"
   email            : # "z.zhao@queensu.ca"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
