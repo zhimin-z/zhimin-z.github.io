@@ -3,13 +3,13 @@
     "short_name": "",
     "icons": [
       {
-          "src": "/selfie.png",
+          "src": "/avatar.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "maskable"
       },
       {
-        "src": "/selfie.png",
+        "src": "/avatar.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
