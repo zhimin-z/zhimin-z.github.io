@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article class="page" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="page__inner-wrap">
+    <header>
+      <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+      <p class="page__meta">
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+    </header>
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+
+    <footer class="page__meta">
+      <p class="page__date">
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      </p>
+      {% if page.modified %}
+        <p class="page__date">
+          <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong>
+          <time datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%B %d, %Y" }}</time>
+        </p>
+      {% endif %}
+    </footer>
+
+    <nav class="page__nav">
+      <a href="/blogs/" class="btn">← Back to Blogs</a>
+    </nav>
+  </div>
+</article>
