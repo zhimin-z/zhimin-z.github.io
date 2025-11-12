@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 permalink: /blogs/
 title: Blogs
 author_profile: false
