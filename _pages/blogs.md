@@ -29,9 +29,6 @@ author_profile: false
                 {{ post.excerpt | markdownify }}
               </div>
             {% endif %}
-            <p class="blog-post-read-more">
-              <a href="{{ post.url | relative_url }}" class="btn btn--inverse">Read More →</a>
-            </p>
             <hr>
           </article>
         {% endfor %}
@@ -74,9 +71,5 @@ author_profile: false
 .blog-post-excerpt {
   margin-bottom: 1em;
   color: #333;
-}
-
-.blog-post-read-more {
-  margin-bottom: 1em;
 }
 </style>
