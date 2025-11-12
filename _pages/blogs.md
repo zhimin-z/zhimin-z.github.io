@@ -2,6 +2,7 @@
 layout: default
 permalink: /blogs/
 title: Blogs
+author_profile: false
 ---
 
 <div class="page__inner-wrap">
