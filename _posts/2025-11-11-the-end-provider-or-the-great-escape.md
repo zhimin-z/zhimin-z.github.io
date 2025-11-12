@@ -6,9 +6,9 @@ date: 2025-11-11
 
 ## AI, Dystopia, and My Case for a Post-Work Socialism
 
-This fall, **12.6 million graduates in China** are entering the job market—the largest cohort in history. Yet the world they are stepping into isn't the one we were promised. A grim consensus is spreading among employers: **AI now outperforms junior employees**, and at a fraction of the cost.
+This fall, [12.6 million](https://www.marketplace.org/story/2025/06/24/in-china-12-million-students-will-graduate-into-a-shaky-job-market) graduates in China are entering the job market—the largest cohort in history. Yet the world they are stepping into isn't the one we were promised. A grim consensus is spreading among employers: **AI now outperforms junior employees**, and at a fraction of the cost.
 
-The numbers are sobering. LinkedIn reports a **35% drop** in entry-level job postings. Indeed (UK) forecasts a **33% decline** in graduate roles next year. And a McKinsey senior partner put it bluntly:
+The numbers are sobering. LinkedIn reports a [35% drop](https://www.linkedin.com/news/story/ai-eliminates-entry-level-jobs-6443308) in entry-level job postings. Indeed (UK) forecasts a [33% decline](https://www.theguardian.com/money/2025/jun/25/uk-university-graduates-toughest-job-market-rise-of-ai) in graduate roles next year. And a McKinsey senior partner put it bluntly:
 
 > "We no longer have analysts do research, because, frankly, generative AI does a better job than any junior analyst."
 
@@ -21,7 +21,7 @@ And if the ladder itself disappears, who becomes tomorrow's partner?
 ## 1. The Collapse of the Corporate Ladder
 
 The threat isn't confined to entry-level work—it's coming for the entire hierarchy.  
-To understand why, let's revisit *The Mythical Man-Month* (1975), a cornerstone of software management theory.
+To understand why, let's revisit [The Mythical Man-Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf) (1975), a cornerstone of software management theory.
 
 Its key axiom: **three people working one month accomplish less than one person working three months.**  
 The culprit? **Alignment overhead**—the cost of meetings, emails, and coordination.
@@ -44,7 +44,7 @@ We aren't facing a single dystopia. We are staring down **two**: one economic, o
 
 ### **The Economic Dystopia: The "End-Provider"**
 
-If AI continues under the logic of unrestrained capitalism, we inch toward a future imagined by **Liu Cixin** in *Nurturing Humankind* (*The Devourer*).
+If AI continues under the logic of unrestrained capitalism, we inch toward a future imagined by **Liu Cixin** in [The Devourer](https://en.wikipedia.org/wiki/Devourer).
 
 In Liu's tale, society ends with a single being—the **End-Provider**—who owns everything: the land, the seas, the air. Through generations of legal wealth accumulation and automation, humanity becomes economically irrelevant. The rest of us face a cruel choice: **leave the planet or suffocate.**
 
@@ -59,12 +59,10 @@ This is **man-made scarcity**: when abundance exists, but ownership hoards it.
 The second fear is subtler—and far more insidious.
 
 **Geoffrey Hinton**, the "Godfather of AI," warns not of killer robots, but of **cognitive capture**.  
-He argues that when superintelligence arrives, the gap will be so vast that humanity will be like chickens trying to manage humans.
+[He argues that when superintelligence arrives, AI systems might be able to control humans just as easily as an adult can bribe 3-year-old with candy.](https://www.cnn.com/2025/08/13/tech/ai-geoffrey-hinton)
 
 The ASI won't need weapons. It will simply **persuade** us.  
-We'll think its goals are our own. We'll defend it, even worship it—believing we're acting rationally.
-
-As Hinton put it, *we may beg it not to be turned off—and genuinely believe that's the right choice.*
+As Hinton put it, as AI systems surpass human intelligence, [they could convincingly persuade or manipulate people not to turn them off, perhaps making us believe it is the right thing to do.](https://www.cnbc.com/2025/07/24/in-ai-attempt-to-take-over-world-theres-no-kill-switch-to-save-us.html)
 
 ---
 
@@ -72,7 +70,7 @@ As Hinton put it, *we may beg it not to be turned off—and genuinely believe th
 
 The builders of AI are, ironically, **the most afraid** of what they're creating.
 
-Recently, **over 200 global leaders**—including Nobel laureates and researchers from DeepMind, Anthropic, and OpenAI—issued a letter to the UN, demanding an international treaty by **2026** to draw *incontrovertible red lines* for AI.
+Recently, **over 200 global leaders**—including Nobel laureates and researchers from DeepMind, Anthropic, and OpenAI—issued a letter to the UN, demanding an international treaty by **2026** to draw [incontrovertible red lines for AI](https://red-lines.ai).
 
 They propose a "**death sentence**" for five applications:
 
