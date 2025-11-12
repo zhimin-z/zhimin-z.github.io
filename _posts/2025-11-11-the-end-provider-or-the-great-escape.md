@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The End-Provider or the Great Escape?"
-date: 2024-11-11
+date: 2025-11-11
 ---
 
 ## AI, Dystopia, and My Case for a Post-Work Socialism

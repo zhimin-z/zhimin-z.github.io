@@ -24,11 +24,6 @@ author_profile: false
                 {{ post.date | date: "%B %d, %Y" }}
               </time>
             </p>
-            {% if post.excerpt %}
-              <div class="blog-post-excerpt">
-                {{ post.excerpt | markdownify }}
-              </div>
-            {% endif %}
             <hr>
           </article>
         {% endfor %}
