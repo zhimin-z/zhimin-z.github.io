@@ -61,6 +61,7 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 # 🎖 Honors and Awards
 
+- *2024* Best Poster Platinum Prize, [International Symposium on Software Engineering for Machine Learning Applications (SEMLA)](https://semla-polymtl.github.io/semla2024/index.html)
 - *2020* Outstanding Mentor, Harbour Education
 - *2016* Shortlisted, [Chunhui Cup Oversea Students Innovation and Entrepreneurship Competition](https://cyds.cscse.edu.cn)
 - *2014* Excellent Graduate, Beijing Institute of Technology
