@@ -105,7 +105,7 @@ Like electricity or water, the "**intelligence grid**" must be treated as public
 
 This isn't a radical fantasy—it's already being discussed at the highest levels of policy.
 
-At the [AI Action Summit in Paris (February 2025)](https://www.weforum.org/stories/2025/02/public-ai-infrastructure-a-media-leader-explains/), governments explored building publicly owned AI infrastructure. The **Public AI Network** proposed "moonshots" including open-source LLMs, massive public datasets (a "library of Alexandria"), and a "CERN for AI" with shared computing power.
+At the [AI Action Summit in Paris (February 2025)](https://www.weforum.org/stories/2025/02/public-ai-infrastructure-a-media-leader-explains), governments explored building publicly owned AI infrastructure. The **Public AI Network** proposed "moonshots" including open-source LLMs, massive public datasets (a "library of Alexandria"), and a "CERN for AI" with shared computing power.
 
 The **Norway model** offers a blueprint. Norway's $1.8 trillion sovereign wealth fund—funded by oil revenues—now holds major stakes in Apple, Microsoft, and Nvidia. The fund returned [$222 billion in 2024](https://www.cnbc.com/2025/01/29/worlds-largest-sovereign-wealth-fund-reports-222-billion-profit.html) on the AI boom, distributing gains to Norwegian citizens. Imagine scaling this model: a **global AI dividend fund**, where every human owns a stake in AGI.
 
@@ -141,7 +141,7 @@ That's why UBI must be paired with **Pillars 1 and 2**. It's not a substitute fo
 
 **How would we fund it?**
 
-- **Robot taxes**: Bill Gates [proposed](https://taxproject.org/ubi-and-ai/) that companies replacing human workers should pay taxes on automation at levels comparable to displaced workers.
+- **Robot taxes**: Bill Gates proposed that companies replacing human workers [should pay taxes on automation at levels comparable to displaced workers](https://taxproject.org/ubi-and-ai).
 - **Sovereign wealth funds**: A small percentage of public company stocks could flow annually into a global AI dividend fund.
 - **Land and capital taxes**: As Altman suggested, taxing unearned wealth rather than wages.
 
