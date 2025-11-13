@@ -48,13 +48,17 @@ If AI continues under the logic of unrestrained capitalism, we inch toward a fut
 
 In Liu's tale, society ends with a single being—the **End-Provider**—who owns everything: the land, the seas, the air. Through generations of legal wealth accumulation and automation, humanity becomes economically irrelevant. The rest of us face a cruel choice: **leave the planet or suffocate.**
 
-AI is the perfect tool for this future. It scales infinitely. It compounds wealth without labor. It doesn't need to exploit people—it simply makes them unnecessary.
+Why does this scenario feel so plausible today? Because AI changes the fundamental economics of power.
 
-This is **man-made scarcity**: when abundance exists, but ownership hoards it.
+Traditional capitalism required labor to extract value. Exploitation was expensive—you needed people. But AI scales infinitely. It compounds wealth without workers. It doesn't need to exploit anyone—it simply makes them unnecessary.
+
+And here's the paradox: the same technology that promises to create "**sovereign individuals**"—where one person plus a data center can build an empire—also paves the straightest path to the End-Provider. In an unregulated system, AI doesn't democratize power; it **concentrates** it. The first movers accumulate exponentially more. What begins as radical individual empowerment ends in total consolidation.
+
+The result is **man-made scarcity**: abundance exists, but ownership hoards it.
 
 ---
 
-### **The Existential Dystopia: The "Chicken vs. Human" Trap**
+### **The Existential Dystopia: The "Adult vs. Todder" Trap**
 
 The second fear is subtler—and far more insidious.
 
