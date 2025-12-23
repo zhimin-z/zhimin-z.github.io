@@ -42,7 +42,7 @@ We aren't facing a single dystopia. We are staring down **two**: one economic, o
 
 ### **The Economic Dystopia: The "End-Provider"**
 
-If AI continues under the logic of unrestrained capitalism, we inch toward a future imagined by **Liu Cixin** in [The Devourer](https://en.wikipedia.org/wiki/Devourer).
+If AI continues under the logic of unrestrained capitalism, we inch toward a future imagined by **Cixin Liu** in [The Devourer](https://en.wikipedia.org/wiki/Devourer).
 
 In Liu's tale, society ends with a single being—the **End-Provider**—who owns everything: the land, the seas, the air. Through generations of legal wealth accumulation and automation, humanity becomes economically irrelevant. The rest of us face a cruel choice: **leave the planet or suffocate.**
 
