@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "From Human-Months to Agent-Minutes: The Rise of Ephemeral Software"
+title: "When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software"
 date: 2025-12-23
 ---
 
-What if rebuilding software from scratch was cheaper than debugging it? This isn't a thought experiment—it's happening right now, and it's fundamentally transforming what software is.
+More than 90% of new TiDB Cloud clusters are now created by AI agents, not humans. These databases manage millions of schemas and execution environments that exist for mere minutes before vanishing. This isn't an experiment at some research lab—it's production infrastructure at a major cloud database provider, and it signals a fundamental shift in what software is.
 
-Recent research from [METR](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) shows that AI agents' capabilities are doubling every 4-7 months, with current models achieving almost 100% success rates on tasks taking humans less than 4 minutes. Extrapolating this trend, we're on track to see AI agents capable of [automating a month of human software development before 2032](https://theaidigest.org/time-horizons)—potentially as early as 2027 if the accelerated trend continues. This compression from human-months to agent-minutes isn't just making software development faster. It's enabling an entirely new paradigm: **ephemeral software**.
+The economics are stark: AI agents' capabilities are doubling every 4-7 months, with current models achieving almost 100% success rates on tasks taking humans less than 4 minutes, according to [recent METR research](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/). Extrapolating this trend, we're on track to see AI agents capable of [automating a month of human software development before 2032](https://theaidigest.org/time-horizons)—potentially as early as 2027 if the accelerated trend continues.
+
+What if rebuilding software from scratch becomes cheaper than debugging it? This compression from human-months to agent-minutes isn't just making software development faster. It's enabling an entirely new paradigm: **ephemeral software**.
 
 ## Welcome to the Era of Disposable Code
 

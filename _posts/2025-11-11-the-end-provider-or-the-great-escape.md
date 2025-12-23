@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "The End-Provider or the Great Escape?"
+title: "Digital Feudalism or Shared Prosperity: The Choice AI Forces on Us"
 date: 2025-11-11
 ---
-
-## AI, Dystopia, and My Case for a Post-Work Socialism
 
 This fall, [12.6 million](https://www.marketplace.org/story/2025/06/24/in-china-12-million-students-will-graduate-into-a-shaky-job-market) graduates in China are entering the job market—the largest cohort in history. Yet the world they are stepping into isn't the one we were promised. A grim consensus is spreading among employers: **AI now outperforms junior employees**, and at a fraction of the cost.
 
