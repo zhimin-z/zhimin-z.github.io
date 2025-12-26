@@ -68,7 +68,8 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
   <span style="font-size:14px;"> *Datawhale*, 2024. </span>
 
-  [[GitHub](https://datawhalechina.github.io/key-book)]
+  [[online](https://datawhalechina.github.io/key-book)]
+  [[pdf](https://github.com/datawhalechina/key-book/releases/tag/preview)]
 
 # 🎖 Honors and Awards
 
