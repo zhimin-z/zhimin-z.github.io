@@ -58,7 +58,7 @@ The traditional path—collect credentials, trade them for a job, learn on the j
 
 What's the difference between those who make it and those who don't? Building capabilities AI can't replicate: architectural judgment, cross-domain integration, the ability to ship complete solutions. Treating AI as a force multiplier from day one instead of waiting to be taught skills AI already commoditized. Creating undeniable proof you can deliver value.
 
-A student with a 3.5 GPA, deep understanding of AI capabilities, and a GitHub showing they built a production-grade system orchestrating multiple AI agents to solve a real problem is infinitely more employable than a 4.0 student with only course projects. The first one proves they can deliver value immediately. The second proves they can follow instructions—something AI already does perfectly. When companies won't invest in training, immediate value is everything.
+A student with a 3.5 GPA, deep understanding of AI capabilities, and a GitHub showing they contribute to a production-grade system orchestrating multiple AI agents to solve a real problem is infinitely more employable than a 4.0 student with only course projects. The first one proves they can deliver value immediately. The second proves they can follow instructions—something AI already does perfectly. When companies won't invest in training, immediate value is everything.
 
 **Academic Path: Accelerate to Principal Investigator**
 
