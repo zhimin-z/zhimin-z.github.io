@@ -4,7 +4,7 @@ title: "The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis (And W
 date: 2025-12-26
 ---
 
-Something strange is happening in the software engineering job market this fall, and it's not what the optimists want you to believe. While CEOs like Sam Altman proclaim this "[the most exciting time to be starting a career](https://www.youtube.com/watch?v=FIdSujFm6F4)," Stanford researchers uncovered something more troubling: for 22-25 year old software developers, [employment has plummeted nearly 20% since ChatGPT dropped in late 2022](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf). Customer service reps show the same pattern. But developers aged 26-30? Only modest declines. Over 30? Basically unaffected.
+Something strange is happening in the software engineering job market this fall, and it's not what the optimists want you to believe. While CEOs like Sam Altman proclaim this "[the most exciting time to be starting a career](https://www.youtube.com/watch?v=FIdSujFm6F4)," Stanford researchers uncovered something more troubling: [for 22-25 year old software developers, employment has plummeted nearly 20% since ChatGPT dropped in late 2022](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf). Customer service reps show the same pattern. But developers aged 26-30? Only modest declines. Over 30? Basically unaffected.
 
 Companies aren't firing experienced workers. They've just stopped hiring the young.
 
