@@ -113,7 +113,3 @@ Build five to ten substantial projects showing you can ship real systems, not to
 - Delivering complete solutions, not code fragments
 
 Your portfolio should make your resume irrelevant. When someone looks at your work, they should immediately understand you can deliver value without training.
-
-**The Critical Difference**
-
-A student with a 3.5 GPA, deep understanding of AI capabilities, and a GitHub showing they built a production-grade system orchestrating AI agents to solve a real problem beats a 4.0 student with only course projects. The first proves they can deliver value immediately. The second proves they can follow instructions—something AI does perfectly. When companies won't invest in training, immediate value is everything.
