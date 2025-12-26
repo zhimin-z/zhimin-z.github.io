@@ -29,7 +29,7 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 - [TODO]
 
-# 📝 Publications
+# 📝 Papers
 
 - &nbsp; <span class="badge">TSE'25</span> &nbsp;**On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards**
 
@@ -58,6 +58,17 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
   [[paper](https://link.springer.com/article/10.1007/s10664-024-10474-4)]
   [[code](https://github.com/zhimin-z/Asset-Management-Topic-Modeling)]
 
+# 📚 Books
+
+- **钥匙书 Key-book**
+
+  <span style="font-size:13px;"> 主编: 詹好, 赵志民 </span>
+
+  <span style="font-size:13px;"> 编委: 李一飞, 王茂霖, 杨昱文, 谢文睿 </span>
+
+  <span style="font-size:14px;"> *Datawhale*, 2024. </span>
+
+  [[GitHub](https://datawhalechina.github.io/key-book)]
 
 # 🎖 Honors and Awards
 
