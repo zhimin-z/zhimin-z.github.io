@@ -26,7 +26,7 @@ Here's the deeper problem: this doesn't just eliminate jobs. It eliminates the p
 
 The apprenticeship crisis is only the surface. Three fundamental forces converge to make this moment uniquely challenging: theoretical questions about machine capabilities, decades of rising abstraction in software development, and economic incentives so powerful they're reshaping entire industries. Understanding these forces won't make the transition easier, but it clarifies what you're actually up against.
 
-### Can Machines Learn What Humans Learn?
+### The Strong AI Hypothesis: Can Machines Learn What Humans Learn?
 
 This crisis forces an uncomfortable question: can machines actually learn what humans learn? The [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing) says that anything a human brain computes, a machine can compute too. If thinking is just computation, and AI systems are universal computers, then theoretically there's no barrier to machines learning everything we can. The optimists love this argument.
 
