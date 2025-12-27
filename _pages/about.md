@@ -21,7 +21,7 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 🔎 His research focuses on LLMOps, MLOps, SE4AI, AI4SE, LLM4Code, etc.
 
-***P.S.*** My Chinese name is "赵志民" and my English name is "Zhimin (Jimmy) Zhao."
+***P.S.*** My Chinese name is "赵志民" and my English name is "Jimmy Zhao."
 
 **Email**: z DOT zhao AT queensu DOT ca
 
