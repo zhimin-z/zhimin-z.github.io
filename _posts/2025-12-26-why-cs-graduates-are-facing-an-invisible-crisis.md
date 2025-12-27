@@ -52,7 +52,7 @@ The irony cuts deep. The same abstractions that made programming accessible to m
 
 The entry-level crisis cuts deeper than job numbers suggest. Those junior positions weren't just jobs—they were where people learned to look beneath abstractions. Where you debugged enough low-level issues to build intuition. Where you made enough mistakes to understand why certain patterns exist. AI is eliminating precisely the experience that would teach you to think beyond the abstractions AI creates.
 
-We're facing a future where AI generates increasingly complex systems while the population capable of understanding those systems shrinks. Developers who only work at the abstraction layer—who know how to use tools but not what the tools do—become indistinguishable from AI. The ones who survive understand fundamentals deeply enough to be genuine stewards of AI-generated complexity. Those who still understand machines will be humanity's last guardians in the world of computing.
+We're facing a future where AI generates increasingly complex systems while the population capable of understanding those systems shrinks. Developers who only work at the abstraction layer—who know how to use tools but not what the tools do—become indistinguishable from AI. The ones who survive understand fundamentals deeply enough to be genuine stewards of AI-generated complexity.
 
 ### The Economic Reality: You're Not Fighting the Trend
 
