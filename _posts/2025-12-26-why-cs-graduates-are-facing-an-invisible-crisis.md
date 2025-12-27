@@ -114,11 +114,7 @@ This shift is uncomfortable because it trades certainty for ambiguity. A grade i
 
 ## 5. Making Your Bets: A Concrete Action Plan
 
-The career ladder hasn't disappeared—it's changed shape. The bottom rung is gone, but there appear to be ways up. You have to build your own first step.
-
-Most of your peers will keep following traditional advice: optimizing for grades, applying to the same prestigious companies, waiting for the job market to improve. While they compete for vanishing entry-level positions, you can build capability in areas where demand currently exceeds supply. While they polish resumes, you can ship products.
-
-What follows is a structured approach with three components: developing genuine AI fluency, understanding what production-level work actually means, and building a portfolio that demonstrates both.
+The career ladder hasn't disappeared—it's changed shape. The bottom rung is gone, but there are ways up if you build your own first step. While most peers follow traditional advice—optimizing for grades, polishing resumes, waiting for the market to improve—you can build capability in areas where demand exceeds supply and ship products that demonstrate value. What follows is a structured approach with three components: developing genuine AI fluency, understanding what production-level work actually means, and building a portfolio that demonstrates both.
 
 ---
 
