@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software"
+author: Zhimin Zhao
 date: 2025-12-23
 ---
 

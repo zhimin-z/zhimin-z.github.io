@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digital Feudalism or Shared Prosperity: The Choice AI Forces on Us"
+author: Zhimin Zhao
 date: 2025-11-11
 ---
 
