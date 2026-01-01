@@ -7,7 +7,7 @@ date: 2025-11-11
 
 This fall, [12.6 million](https://www.marketplace.org/story/2025/06/24/in-china-12-million-students-will-graduate-into-a-shaky-job-market) graduates in China are entering the job market—the largest cohort in history. The world they're stepping into isn't the one we were promised. There's a grim consensus spreading among employers: AI now outperforms junior employees, at a fraction of the cost. The numbers are rough. LinkedIn reports a [35% drop](https://www.linkedin.com/news/story/ai-eliminates-entry-level-jobs-6443308) in entry-level job postings. Indeed (UK) forecasts a [33% decline](https://www.theguardian.com/money/2025/jun/25/uk-university-graduates-toughest-job-market-rise-of-ai) in graduate roles next year.
 
-A McKinsey senior partner put it bluntly: "We no longer have analysts do research, because, frankly, generative AI does a better job than any junior analyst." That should terrify not just the analyst, but the partner too. If AI replaces the entry-level rung, how does anyone climb the ladder? And if the ladder disappears, who becomes tomorrow's partner?
+A McKinsey senior partner put it bluntly: ["We no longer have analysts do research, because, frankly, generative AI does a better job than any junior analyst."](https://hbsp.harvard.edu/inspiring-minds/ai-impact-entry-level-jobs) That should terrify not just the analyst, but the partner too. If AI replaces the entry-level rung, how does anyone climb the ladder? And if the ladder disappears, who becomes tomorrow's partner?
 
 ---
 
