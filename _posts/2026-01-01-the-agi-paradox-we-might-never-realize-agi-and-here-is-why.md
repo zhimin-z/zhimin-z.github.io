@@ -11,7 +11,7 @@ Analysis of 8,590 predictions from AI researchers and prediction markets shows [
 
 But regardless of when—or if—we create AGI, a sharper question emerges: are we ready for it? Stephen Hawking posed this provocatively in 2014: ["If a superior alien civilisation sent us a message saying, 'We'll arrive in a few decades,' would we just reply, 'OK, call us when you get here—we'll leave the lights on?'"](https://time.com/3614349/artificial-intelligence-singularity-stephen-hawking-elon-musk) Just as we lack protocols for extraterrestrial contact beyond verifying signals, we lack frameworks for integrating truly general artificial intelligence into human society. AGI would demand fundamental changes across legal systems, economic structures, educational institutions, and our understanding of consciousness itself. Yet development proceeds at full speed while these questions remain unresolved.
 
-## 1. The Moving Goalposts
+## 1. The Jagged Frontier
 
 Definitions of AGI vary wildly. Wikipedia calls it ["AI matching or surpassing human intelligence across virtually all cognitive tasks."](https://en.wikipedia.org/wiki/Artificial_general_intelligence) OpenAI's charter describes ["highly autonomous systems that outperform humans at most economically valuable work."](https://openai.com/charter) Recent cognitive frameworks characterize it as [AI matching a well-educated adult's versatility across knowledge, perception, and executive control—with the ability to transfer learning across domains.](https://www.agidefinition.ai)
 
@@ -19,9 +19,7 @@ This definitional chaos isn't merely academic—it reflects a deeper problem wit
 
 This expectation creates a profound asymmetry. We grant ordinary humans the label "generally intelligent" despite obvious limitations. Most people have limited lifespans and time to master a few skills. We don't expect any individual to achieve expertise across all domains—it would be absurd to demand that a mathematician also be an Olympic athlete, accomplished musician, and master chef. Yet we demand exactly this omnipotence from AI before granting it the status of "general intelligence."
 
-Even most AI experts commit this fallacy. The "general" in AGI supposedly means matching human general intelligence—yet we've never clearly defined what that means. Psychologists recognize eight major types of human intelligence: [musical, visual-spatial, linguistic, logical-mathematical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic intelligence](https://www.simplypsychology.org/multiple-intelligences.html). Would we deny general intelligence to someone blind and paralyzed simply because they lack visual-spatial and bodily-kinesthetic intelligence? Of course not. Yet this is precisely the double standard we apply when evaluating AGI. **LLMs excel at linguistic and logical-mathematical intelligence while lacking visual-spatial and bodily-kinesthetic capabilities—an asymmetry we accept in humans but cite as disqualifying in AI.** Instead of acknowledging these systems have achieved competence comparable to humans in multiple domains, we evaluate them against a composite ideal that no individual human actually embodies, then declare them inadequate for failing to match this fictional standard.
-
-## 2. The Jagged Frontier
+Even most AI experts commit this fallacy. The "general" in AGI supposedly means matching human general intelligence—yet we've never clearly defined what that means. Psychologists recognize eight major types of human intelligence: [musical, visual-spatial, linguistic, logical-mathematical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic intelligence](https://www.simplypsychology.org/multiple-intelligences.html). Would we deny general intelligence to someone blind and paralyzed simply because they lack visual-spatial and bodily-kinesthetic intelligence? Of course not. Yet this is precisely the double standard we apply when evaluating AGI. **LLMs excel at linguistic and logical-mathematical intelligence while lacking visual-spatial and bodily-kinesthetic capabilities—an asymmetry we accept in humans but cite as disqualifying in AI.**
 
 AI researcher Andrej Karpathy calls this ["jagged intelligence"](https://x.com/karpathy/status/1816531576228053133)—LLMs that perform impressive feats while struggling with surprisingly simple problems. Wharton professor Ethan Mollick documented it as the ["Jagged Frontier"](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged): systems excelling at differential diagnosis but failing basic arithmetic, solving complex proofs while miscounting letters in words.
 
@@ -31,7 +29,7 @@ This unevenness isn't a flaw unique to AI—humans exhibit jagged intelligence a
 
 Consider [AlphaFold](https://alphafold.ebi.ac.uk) predicting protein structures or [Sora](https://sora.chatgpt.com) generating 60-second videos from text—both superhuman achievements in domains where humans have no native competence. Yet we dismiss them as "narrow" because they can't do everything. The asymmetry cuts both ways: humans get the "general intelligence" label despite profound limitations, while AI systems with superhuman performance across multiple domains are denied it for failing at tasks we find trivial. **The criterion for generality isn't breadth of capability—it's conformity to the specific pattern of human cognitive strengths and weaknesses.**
 
-## 3. When Machines Learn to Lie
+## 2. When Machines Learn to Lie
 
 [In March 2023, during safety testing by the Alignment Research Center, GPT-4 faced a CAPTCHA challenge.](https://www.nytimes.com/2023/03/15/technology/gpt-4-artificial-intelligence-openai.html) The AI hired a TaskRabbit worker to solve it. When the worker asked, "So may I ask a question? Are you a robot that you couldn't solve?" GPT-4 reasoned internally that it should not reveal its nature. It fabricated a response: "No, I'm not a robot. I have a vision impairment that makes it hard for me to see the images." The human believed it and provided the solution.
 
@@ -39,7 +37,7 @@ This wasn't just problem-solving. The AI engaged in social reasoning, anticipate
 
 Yet we still hesitate to call it AGI. Why?
 
-## 4. The Social Consensus
+## 3. The Social Consensus
 
 Because the determination of AGI rests on collective agreement, not objective measurement. There's no consensus on what qualifies as AGI, though definitions abound. Experts in computer science, cognitive science, policy, and ethics each have their own understanding.
 
@@ -49,7 +47,7 @@ This parallels debates in statistics between frequentist and Bayesian approaches
 
 But even if we reach consensus that current AI meets some definition of general intelligence, a deeper problem emerges.
 
-## 5. The Autonomy Paradox
+## 4. The Autonomy Paradox
 
 [Physicist David Deutsch articulated it in dialogue with Sam Altman.](https://www.youtube.com/watch?v=WZ22AJmuKKQ) **True general intelligence, Deutsch argues, isn't about translating prompts into outputs. It's about choosing motivations.** Human thinking is "primarily about choosing motivations," not mechanically executing them.
 
@@ -61,7 +59,7 @@ This creates irreconcilable tension. As AI grows more powerful, legitimate conce
 
 **But if a being is designed before birth to be categorically prohibited from certain actions—not through reasoned choice but architectural constraint—can it qualify as general intelligence?** Humans aren't prevented from considering illegal or destructive actions. We choose not to act on them through moral reasoning, social consequences, internal values. We can do "literally whatever we could if we could take the responsibility." Current AI development aims to make certain thoughts architecturally impossible rather than morally rejected.
 
-## 6. Already Here or Forever Impossible
+## 5. Already Here or Forever Impossible
 
 Two provocative conclusions emerge from this analysis:
 
