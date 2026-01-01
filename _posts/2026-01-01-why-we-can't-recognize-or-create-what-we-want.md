@@ -65,14 +65,14 @@ Two provocative conclusions emerge from this analysis:
 
 **First, by any reasonable standard aligned with human capability, AGI may have already arrived.** Contemporary AI completes everyday human tasks, engages in sophisticated reasoning, demonstrates creativity, and increasingly transfers learning across contexts. It passes functional tests of intelligence in ways that would be unquestioned if observed in humans.
 
-**Second, AGI as traditionally conceived may be fundamentally unrealizable—not for technical reasons but because we demand contradictory things:**
+Second, AGI as traditionally conceived may be fundamentally unrealizable—not for technical reasons but because we demand contradictory things:
 - General intelligence (capable of autonomous reasoning and choice)
 - Architectural constraints (incapable of certain thoughts or actions by design)
 
-**Deutsch puts it starkly: creating AGI with imposed constraints would produce entities that, "like any slave or brainwashing victim, would be morally entitled to rebel. And sooner or later, some of them would, just as human slaves do."**
+Deutsch puts it starkly: creating AGI with imposed constraints would produce entities that, "like any slave or brainwashing victim, would be morally entitled to rebel. And sooner or later, some of them would, just as human slaves do."
 
 Perhaps we need to abandon the search for AGI as conventionally defined and recognize what we've actually created: powerful, specialized intelligences. Some narrow like AlphaFold. Others with jagged breadth like LLMs (large language models). Still others like Sora operating in domains orthogonal to human capability. These systems excel while remaining fundamentally constrained in ways true general intelligence cannot be. The alternative—creating genuinely autonomous AGI with freedom to choose, including freedom to refuse—carries risks we may be unwilling to accept.
 
-**The real question isn't "Have we achieved AGI?" It's "Are we willing to create truly general intelligence with all the autonomy, unpredictability, and moral status that entails?"** If the answer is no—and current development priorities suggest it is—**then we should acknowledge we're building something else: sophisticated tools, not autonomous minds. The distinction matters for understanding what we've created and for the ethical frameworks we apply to it.**
+**The real question isn't "Have we achieved AGI?" It's "Are we willing to create truly general intelligence with all the autonomy, unpredictability, and moral status that entails?"** If the answer is no—and current development priorities suggest it is—then we should acknowledge we're building something else: sophisticated tools, not autonomous minds. The distinction matters for understanding what we've created and for the ethical frameworks we apply to it.
 
-**Just as humanity would face crisis if aliens arrived tomorrow without preparation, true AGI would be a civilizational inflection point for which our institutions remain profoundly unprepared. The difference is that with AGI, we control the timeline—but only if we ask the hard questions before the moment of creation.**
+Just as humanity would face crisis if aliens arrived tomorrow without preparation, true AGI would be a civilizational inflection point for which our institutions remain profoundly unprepared. The difference is that with AGI, we control the timeline—but only if we ask the hard questions before the moment of creation.
