@@ -9,7 +9,7 @@ More than 90% of new TiDB Cloud clusters are now created by AI agents, not human
 
 The economics tell the story: AI agents' capabilities are doubling every 4-7 months. Current models achieve almost 100% success rates on tasks that take humans less than 4 minutes, according to [recent METR research](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/). If you extrapolate this, we're looking at AI agents capable of [automating a month of human software development before 2032](https://theaidigest.org/time-horizons)—maybe as early as 2027 if the pace holds.
 
-**What happens when rebuilding software from scratch becomes cheaper than debugging it?** This compression from human-months to agent-minutes does more than speed up development. It enables something different: ephemeral software.
+**What happens when rebuilding software from scratch becomes cheaper than debugging it?** This compression from human-months to agent-minutes does more than speed up development. It enables something different: ephemeral software (or service).
 
 ---
 
