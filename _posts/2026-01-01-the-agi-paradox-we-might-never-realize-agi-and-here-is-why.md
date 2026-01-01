@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The AGI Paradox: Why We Can't Recognize—or Create—What We Want"
+title: "The AGI Paradox: We Might Never Realize AGI, and Here is Why"
 author: Zhimin Zhao
 date: 2026-01-01
 ---
