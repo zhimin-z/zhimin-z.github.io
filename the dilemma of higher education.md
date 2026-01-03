@@ -270,7 +270,7 @@ This capacity for visionary commitment can't be extracted from training data bec
 
 This is agency at its core—whether expressed through scientific research, engineering innovation, or entrepreneurial ventures. And it's what CS education should prioritize above all else.
 
-## The Path Forward: A Roadmap for CS Departments
+## The Path Forward: A Roadmap for CS Education
 
 So where does this leave CS education? While I'm synthesizing observations from educators, practitioners, and researchers rather than speaking as a faculty member myself, these patterns suggest several directions CS departments might consider:
 
