@@ -1,5 +1,11 @@
 # The CS Department's Existential Crisis: When AI Makes Your Curriculum Obsolete Before Students Graduate
 
+## TL;DR
+
+AI-augmented engineers are showing 10x productivity gains over traditional programmers, creating an urgent crisis for CS education. Companies like Palantir and Tesla are hiring high school graduates without degrees, training them to AI fluency in months rather than years. Universities face a structural disadvantage: they can't compete on infrastructure, their curricula can't adapt fast enough, and the ROI of CS degrees is collapsing under massive debt with declining job prospects.
+
+The path forward requires CS departments to radically restructure around six principles: (1) build 2,000-hour AI mastery into core curriculum, (2) replace toy projects with real open-source contributions, (3) cultivate student uniqueness rather than uniformity, (4) focus on irreplaceable human skills—agency, judgment, social intelligence—that AI can't automate, (5) acknowledge the ROI crisis honestly, and (6) preserve genuine scientific research over academic busywork. The question isn't whether CS education will transform, but whether departments will lead that transformation or be left behind.
+
 ## A Note on Perspective
 
 I'm writing this as someone wrestling with difficult questions about the future of CS education, not someone who claims to have all the answers. I might be wrong about the pace of change, the extent to which AI will transform our field, or the best path forward. Many CS educators are already pioneering innovative approaches—this post synthesizes observations and raises questions for discussion, not prescriptions. I welcome pushback, alternative perspectives, and constructive criticism.
@@ -44,14 +50,6 @@ The research he cites suggests you need at least a year working with AI before y
 
 Instead, most CS departments are still debating whether to allow ChatGPT on exams.
 
-## The Invisible Revolution
-
-Zhenyu Luo, a prominent Chinese media entrepreneur and host of the influential annual "Time's Friend" New Year's Eve speech (think China's equivalent of a TED talk meets a State of the Union address, watched by millions), made an observation in his 2026 address that crystallizes the challenge facing higher education: every previous technological revolution had visible social landscapes. Steam engines brought factory chimneys. Internal combustion engines brought highways full of cars. Computers brought office towers full of people staring at screens.
-
-AI has no such landscape. It infiltrates invisibly, like water seeping through cracks. A supermarket in Beijing now uses AI to monitor whether employees change gloves on time. A concrete mixing plant in Daxing uses AI to replace the master craftsmen who spent decades learning the perfect mix ratios. A coal mine in Inner Mongolia replaced truck drivers with autonomous vehicles—not for cost savings, but because no human should work in -40°C conditions with near-zero visibility.
-
-Li Feifei, the Stanford professor often called the "godmother of AI" and co-director of Stanford's Human-Centered AI Institute, argues that education must evolve: AI is rapidly proving that machines can replicate many skills we spend years teaching. This raises urgent questions about what educational institutions should prioritize—questions that CS departments, given our field's central role in this transformation, are uniquely positioned to address.
-
 ## The Tower of Babel: How AI Demolished the Learning Boundary
 
 Before we ask what CS education should teach, we need to understand how fundamentally AI has transformed the act of learning itself.
@@ -71,6 +69,8 @@ What's the shelf life of a CS skill in the AI age?
 The traditional answer was that CS programs train students for careers, not jobs. We give them foundational knowledge that remains relevant across decades. Learn computer science fundamentals, and you can adapt to any programming language, any framework, any paradigm shift.
 
 That logic deserves reexamination. Many core computer science skills—from software development and algorithm implementation to system design, debugging, and code review—can now be significantly augmented or partially automated by AI tools. This extends beyond just programming: AI assists with data analysis and visualization, automates routine database operations, helps explain theoretical concepts, generates documentation, and even aids in research literature review. The traditional boundaries between tasks that require deep expertise versus those accessible to beginners are shifting.
+
+Li Feifei, the Stanford professor often called the "godmother of AI" and co-director of Stanford's Human-Centered AI Institute, frames this challenge directly: AI is rapidly proving that machines can replicate many skills we spend years teaching. This raises urgent questions about what educational institutions should prioritize—questions that CS departments, given our field's central role in this transformation, are uniquely positioned to address.
 
 This doesn't mean human expertise is obsolete. Cutting-edge research, complex system design, novel algorithmic innovation, and critical judgment about what problems are worth solving still require human insight. But the nature of what CS graduates need to know—and how they apply that knowledge—is evolving faster than traditional four-year curricula can adapt.
 
@@ -92,15 +92,7 @@ The program's tagline? "Skip the debt. Skip the indoctrination."
 
 Palantir CEO Alex Karp didn't mince words: "Everything you learned at your school and college about how the world works is intellectually incorrect." He went further during an earnings call: "If you did not go to school, or you went to a school that's not that great, or you went to Harvard or Princeton or Yale, once you come to Palantir, you're a Palantirian—no one cares about the other stuff. This is by far the best credential in tech."
 
-Palantir isn't alone. Back in 2020, Elon Musk announced Tesla was hiring for its AI team: "A PhD is definitely not required. Don't care if you even graduated high school. Educational background is irrelevant, but all must pass hardcore coding test."
-
-In a 2014 interview with Auto Bild, Musk had already laid out his philosophy: "There's no need even to have a college degree at all, or even high school. If somebody graduated from a great university, that may be an indication that they will be capable of great things, but it's not necessarily the case. If you look at, say, people like Bill Gates or Larry Ellison, Steve Jobs, these guys didn't graduate from college, but if you had a chance to hire them, of course that would be a good idea."
-
-What matters to Musk isn't credentials—it's "evidence of exceptional ability" and "a track record of exceptional achievement." Tesla's hiring process focuses on first-hand experience and hands-on expertise testing, not diplomas.
-
-And the data suggests these companies mean it. According to workforce analytics from Revelio Labs, Tesla actually has a higher share of employees without college degrees than many traditional automakers and tech companies. The leadership's de-emphasis on credentials has permeated the broader organization.
-
-Google, Apple, and Netflix have all publicly stated they no longer require college degrees for many positions. The trend is accelerating, not slowing.
+Palantir isn't alone. Tesla, Google, Apple, and Netflix have all publicly stated they no longer require college degrees for many positions, focusing instead on demonstrated ability and hands-on expertise. According to workforce analytics from Revelio Labs, Tesla has a higher share of employees without college degrees than many traditional automakers and tech companies—showing these aren't just PR statements. The trend is accelerating, not slowing.
 
 There's a cold economic logic behind this trend that universities need to confront: **when you can train someone to AI fluency in a year for a fraction of the cost of a four-year degree, the traditional path stops making financial sense**. A company hires a motivated high school graduate, trains them to work effectively with AI tools in months, not years. The learning curve is steep but short—2,000 hours as Yegge suggests, roughly one year of intensive practice.
 
@@ -108,21 +100,9 @@ Compare this to the traditional path: four years of university education costing
 
 If training someone to AI fluency costs a company perhaps $50,000-$100,000 in salary and resources over one year, versus hiring a graduate with $100,000+ in debt who expects a premium salary but needs to unlearn traditional habits, the economic incentive is clear. Companies don't just save money on the hire—they get employees without the "curse of expertise" who naturally adopt AI-first workflows.
 
-This is why Palantir's fellowship isn't just ideological. It's economically rational.
+This is why Palantir's fellowship isn't just ideological. It's economically rational. And universities face a deeper structural disadvantage: they simply cannot compete on the resources that matter most in today's AI landscape. Modern AI development is scaling law-driven—more compute power enables more capable models. Most CS departments lack the compute clusters to train frontier models, the budgets to run large-scale experiments, or enough faculty who've deployed AI systems at production scale. Even if they could acquire these resources, by the time a curriculum gets designed, approved, and taught, the industry has moved three generations ahead. **If a bachelor's degree can't provide knowledge or skills that high school graduates working at tech companies don't already have access to, why should anyone pursue such a degree for the job market?**
 
-## The Scaling Law Dilemma: Why Universities Can't Compete
-
-But there's a deeper structural reason why CS higher education faces an existential crisis—one rooted in the fundamental nature of this generation of AI technology.
-
-Modern AI is scaling law-driven. The more compute power you have, the more capable the model you can train. This isn't about clever algorithms or theoretical breakthroughs—it's about resources. And when it comes to resources, industry wins without question.
-
-Consider what matters most in today's AI landscape: how to train better models, how to deploy trained models with cheaper pricing and lower latency, how to use served models effectively across different contexts. These aren't abstract theoretical problems. They're engineering challenges that require massive infrastructure, significant budgets, and practitioners who work with production systems daily.
-
-Universities simply cannot compete. Most CS departments lack the compute clusters to train frontier models. They don't have the budget to run large-scale experiments. They can't hire enough faculty who've actually deployed AI systems at scale. Even if they could, by the time a curriculum gets designed, approved, and taught, the industry has moved three generations ahead.
-
-**If a bachelor's degree can't provide knowledge or skills that high school graduates working at tech companies don't already have access to, why should anyone pursue such a degree for the job market?**
-
-To be clear, not every domain in CS faces the same threat. Quantum computing still requires cutting-edge physical knowledge and experimentation that contemporary AI can't easily replicate. Certain areas of theoretical computer science remain insulated. But for the vast majority of CS students headed into software engineering, data science, or AI engineering—the fields that employ most graduates—the traditional university value proposition is crumbling.
+To be clear, not every CS domain faces the same threat. Quantum computing still requires cutting-edge physical knowledge and experimentation that contemporary AI can't easily replicate. Certain areas of theoretical computer science remain insulated. But for the vast majority of CS students headed into software engineering, data science, or AI engineering—the fields that employ most graduates—the traditional university value proposition is crumbling.
 
 ## The ROI Catastrophe for CS Degrees
 
@@ -242,7 +222,7 @@ Some people will excel at using AI and outcompete those who resist it due to bia
 
 ## Escaping the Commodity Trap: Cultivating Uniqueness and Agency
 
-Luo Zhenyu offers another lens on this challenge for CS students. He poses a question to parents anxious about their children's future: What kind of person is unafraid of change?
+Luo Zhenyu, a prominent Chinese media entrepreneur and host of the influential annual "Time's Friend" New Year's Eve speech (think China's equivalent of a TED talk meets a State of the Union address, watched by millions), offers another lens on this challenge for CS students. In his 2026 address, he poses a question to parents anxious about their children's future: What kind of person is unafraid of change?
 
 His answer: someone with uniqueness. In an AI age, standardized skills are precisely what gets automated most easily. The more human data AI has to learn from in a domain, the more effectively it can replace human workers there.
 
