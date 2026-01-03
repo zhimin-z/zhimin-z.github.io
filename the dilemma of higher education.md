@@ -160,11 +160,11 @@ This is tacit knowledge of a different kind—not domain expertise that AI can e
 
 **While AI is rapidly devaluing the knowledge-acquisition function of higher education, it barely touches this social-scaffolding function**. ChatGPT can teach you data structures. It cannot teach you how to read a room, navigate office politics, or build trust with colleagues over months of collaboration.
 
-This suggests a radical reorientation of what higher education should prioritize.
+This suggests a radical reorientation of what higher education might prioritize.
 
-If knowledge acquisition is becoming commoditized, universities should double down on what remains irreducibly human: helping students understand how society actually works, cultivating philosophical thinking about what kind of humans we want to be, and creating environments where young people can practice being functional adults before the stakes get real.
+If knowledge acquisition is becoming commoditized, universities could double down on what remains irreducibly human: helping students understand how society actually works, cultivating philosophical thinking about what kind of humans we want to be, and creating environments where young people can practice being functional adults before the stakes get real.
 
-This means more courses on philosophy, ethics, social systems, psychology, history—not as ivory-tower abstractions, but as frameworks for understanding the human world students are about to enter. It means structured opportunities for collaboration on real problems where interpersonal dynamics matter as much as technical solutions. It means mentorship from practitioners who can model professional judgment, not just technical skill.
+This could mean more courses on philosophy, ethics, social systems, psychology, history—not as ivory-tower abstractions, but as frameworks for understanding the human world students are about to enter. It could mean structured opportunities for collaboration on real problems where interpersonal dynamics matter as much as technical solutions. It could mean mentorship from practitioners who can model professional judgment, not just technical skill.
 
 In the AI age, where machines can outperform us on an ever-expanding range of cognitive tasks, the distinctly human capacities become more valuable, not less. The ability to understand our own intentions and values. The wisdom to know what goals are worth pursuing. The judgment to navigate ambiguous social situations. The integrity to act ethically when no one is watching.
 
@@ -192,7 +192,7 @@ Steve Yegge offers a clue about what this new role requires. He notes that even 
 
 But it's more than that. Yegge's collaborator Jeffrey Emanuel, who built an "agent mail" system for AI coordination, is a mathematician who taught himself engineering. He doesn't necessarily write code, but he understands how Cassandra works, how distributed systems behave, what the architectural tradeoffs are.
 
-The implication: CS education isn't obsolete. But it needs to move up the abstraction stack. We should be teaching students to think like software architects and innovators, not like code monkeys.
+The implication: CS education isn't obsolete. But it might need to move up the abstraction stack. Perhaps the focus should shift toward teaching students to think like software architects and innovators, not like code monkeys.
 
 Importantly, this doesn't mean abandoning fundamentals. When students tackle real problems with AI assistance, they learn algorithms, data structures, and systems concepts—but contextually, as needed to solve actual challenges. A student debugging a distributed system learns about concurrency and race conditions through necessity, not abstract lectures. One implementing a feature learns relevant algorithms by needing them, not memorizing them for exams. The fundamentals still get learned, but through purposive exploration rather than prescribed curriculum.
 
@@ -272,11 +272,11 @@ This is agency at its core—whether expressed through scientific research, engi
 
 ## The Path Forward: A Roadmap for CS Departments
 
-So where does this leave CS education? A roadmap for how CS departments might navigate this transition:
+So where does this leave CS education? While I'm synthesizing observations from educators, practitioners, and researchers rather than speaking as a faculty member myself, these patterns suggest several directions CS departments might consider:
 
 **First**, accept that the credentialing monopoly is breaking. If universities don't teach AI fluency, someone else will—and might do it better. Palantir's fellowship is just the beginning.
 
-**Second**, restructure around the 2,000-hour milestone. If genuine AI mastery requires roughly a year of intensive practice, universities should build this into their programs. Not as an elective. Not as an add-on. As a core requirement that shapes everything else.
+**Second**, restructure around the 2,000-hour milestone. If genuine AI mastery requires roughly a year of intensive practice, universities could build this into their programs. Not as an elective. Not as an add-on. As a core requirement that shapes everything else.
 
 **Third**, replace toy projects with real contributions. Stop assigning homework that nobody will ever use. Send students to contribute to open-source projects, propose enhancements to production systems, tackle open problems in mathematics and science. Grade by pull request quality and conversation trajectory, not exam performance.
 
