@@ -127,17 +127,17 @@ defaults:
       layout: default
       author_profile: true
 
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      author_profile: false
-      read_time: true
-      comments: false
-      share: false
-      related: false
+  # _posts - disabled (blog moved to Medium)
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: post
+  #     author_profile: false
+  #     read_time: true
+  #     comments: false
+  #     share: false
+  #     related: false
 
 
 # Sass/SCSS

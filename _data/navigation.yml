@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Blogs"
+    url: "https://medium.com/@zhiminzhao"
+
   - title: "News"
     url: "/#-news"
 
@@ -23,6 +26,3 @@ main:
 
   - title: "Teaching"
     url: "/#-teaching"
-
-  - title: "Blogs"
-    url: "/blogs/"

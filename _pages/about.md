@@ -25,6 +25,10 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 **Email**: z DOT zhao AT queensu DOT ca
 
+# 📝 Blogs
+
+Visit my blog on [Medium](https://medium.com/@zhiminzhao) for my latest writings and thoughts.
+
 # 🔥 News
 
 - [TODO]
