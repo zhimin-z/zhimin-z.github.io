@@ -6,11 +6,11 @@ main:
   - title: "Blogs"
     url: "https://medium.com/@zhiminzhao"
 
-  - title: "Papers"
-    url: "/#-papers"
-
   - title: "Books"
     url: "/#-books"
+
+  - title: "Papers"
+    url: "/#-papers"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
