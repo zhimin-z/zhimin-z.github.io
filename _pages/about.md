@@ -27,7 +27,7 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 # 📝 Blogs
 
-Visit my blog on [Medium](https://medium.com/@zhiminzhao) for my latest writings and thoughts.
+Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings and thoughts.
 
 # 🔥 News
 

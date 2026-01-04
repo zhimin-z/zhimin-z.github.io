@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Blogs"
-    url: "https://medium.com/@zhiminzhao"
-
   - title: "News"
     url: "/#-news"
+
+  - title: "Blogs"
+    url: "https://medium.com/@zhiminzhao"
 
   - title: "Papers"
     url: "/#-papers"
