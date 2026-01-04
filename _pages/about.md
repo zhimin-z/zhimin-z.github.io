@@ -25,13 +25,24 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 **Email**: z DOT zhao AT queensu DOT ca
 
+# 🔥 News
+
+- [TODO]
+
 # 📝 Blogs
 
 Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings and thoughts.
 
-# 🔥 News
+# 📚 Books
 
-- [TODO]
+- &nbsp; <span class="badge">Datawhale'24</span> &nbsp;**钥匙书 Key-book**
+
+  <span style="font-size:13px;"> 主编: 詹好, 赵志民 </span>
+
+  <span style="font-size:13px;"> 编委: 李一飞, 王茂霖, 杨昱文, 谢文睿 </span>
+
+  [[online](https://datawhalechina.github.io/key-book)]
+  [[pdf](https://github.com/datawhalechina/key-book/releases/download/preview/key_book.pdf)]
 
 # 📝 Papers
 
@@ -61,17 +72,6 @@ Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings
 
   [[paper](https://link.springer.com/article/10.1007/s10664-024-10474-4)]
   [[code](https://github.com/zhimin-z/Asset-Management-Topic-Modeling)]
-
-# 📚 Books
-
-- &nbsp; <span class="badge">Datawhale'24</span> &nbsp;**钥匙书 Key-book**
-
-  <span style="font-size:13px;"> 主编: 詹好, 赵志民 </span>
-
-  <span style="font-size:13px;"> 编委: 李一飞, 王茂霖, 杨昱文, 谢文睿 </span>
-
-  [[online](https://datawhalechina.github.io/key-book)]
-  [[pdf](https://github.com/datawhalechina/key-book/releases/download/preview/key_book.pdf)]
 
 # 🎖 Honors and Awards
 
