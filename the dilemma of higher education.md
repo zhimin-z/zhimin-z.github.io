@@ -94,7 +94,7 @@ Palantir CEO Alex Karp didn't mince words: "Everything you learned at your schoo
 
 Palantir isn't alone. Tesla, Google, Apple, and Netflix have all publicly stated they no longer require college degrees for many positions, focusing instead on demonstrated ability and hands-on expertise. According to workforce analytics from Revelio Labs, Tesla has a higher share of employees without college degrees than many traditional automakers and tech companies—showing these aren't just PR statements. The trend is accelerating, not slowing.
 
-There's a cold economic logic behind this trend that universities need to confront: **when you can train someone to AI fluency in a year for a fraction of the cost of a four-year degree, the traditional path stops making financial sense**. A company hires a motivated high school graduate, trains them to work effectively with AI tools in months, not years. The learning curve is steep but short—2,000 hours as Yegge suggests, roughly one year of intensive practice.
+There's a cold economic logic behind this trend that universities need to confront: **when you can train someone to AI fluency in a year for a fraction of the cost of a four-year degree, the traditional path stops making financial sense**. These companies can afford to hire high school graduates because they're restructuring around AI-augmented workflows where traditional hierarchical knowledge transfer is being replaced by dynamic, task-based collaboration between humans and AI agents. They hire motivated high school graduates and train them to work effectively with AI tools—achieving genuine fluency faster and cheaper than traditional degree programs.
 
 Compare this to the traditional path: four years of university education costing $50,000 to $200,000, much of which teaches skills that AI can now significantly augment or partially automate. From a company's perspective, why pay a premium salary to hire a CS graduate with four years of traditional training and student debt expectations, when you can hire a smart 18-year-old, train them in AI-augmented development for a fraction of the cost, and have a productive team member within a year?
 
@@ -126,11 +126,15 @@ This isn't hypothetical. The trends are already visible. College enrollment has 
 
 If this pattern continues—if companies increasingly hire based on demonstrated AI fluency rather than credentials—the financial model of CS departments faces an existential threat. Tuition fees are a major revenue source for universities. What happens when the customers decide the product isn't worth the price?
 
+These economic pressures are real and urgent. But focusing solely on CS education's knowledge-transmission function misses something crucial about what universities actually do.
+
 ## Beyond Code: The Social Scaffolding of CS Education
 
-But wait. There's a critical dimension we've been overlooking in this entire analysis—one that reveals why CS education might be more essential than ever, even as its knowledge-transmission function diminishes.
+The picture painted so far is bleak: collapsing ROI, companies bypassing degrees, AI commoditizing technical skills. If CS education were *only* about knowledge transmission, this analysis would be devastating.
 
-We've spent thousands of words discussing how AI is devaluing knowledge acquisition. But universities have never been solely about knowledge. They serve another function that's easy to miss if you're too focused on curriculum: they're the bridge between adolescence and adulthood.
+But there's a critical dimension we've been overlooking—one that reveals why CS education might be more essential than ever, even as its knowledge-transmission function diminishes.
+
+Universities have never been solely about knowledge. They serve another function that's easy to miss if you're too focused on curriculum: they're the bridge between adolescence and adulthood.
 
 Consider the social reality: we don't allow people under 18 to fully participate in industry or broader society. We consider them developmentally immature—not ready for the autonomy, responsibility, and complexity of adult professional life. This isn't arbitrary. There's a genuine gap that needs bridging.
 
@@ -156,19 +160,23 @@ The question isn't whether CS departments should continue to exist. It's whether
 
 ## From Code Monkey to AI Orchestrator: What CS Students Actually Need to Learn
 
-But there's a pattern worth noticing—one that reveals where CS education might still add value.
+The future workplace won't be divided by whether you use AI, but by whether you can master it. And there's a pattern worth noticing—one that reveals where CS education might still add value.
 
 At Conch Cement in Anhui Province—a major industrial region in eastern China—there's a worker named Pei Jun. His job used to be mixing concrete based on decades of accumulated tacit knowledge—the kind of expertise that exists only in an old master's head. Now AI has extracted his knowledge and taken over his work.
 
 Did Pei Jun become unemployed? No. He now trains AI algorithms and leads the company's digital transformation. He just got promoted to assistant director of the AI division.
 
-Pei represents a new emerging category of workers—"Purple Collar"—neither white collar nor blue collar, but something in between. **AI doesn't push humans down. It elevates us—if we let it**. The tedious, repetitive, dangerous work gets automated. What remains is the distinctly human work: judgment, creativity, connection, responsibility.
+Pei represents a new emerging category of workers—"Purple Collar"—neither white collar nor blue collar, but something in between. His role shift reflects broader organizational restructuring happening across tech companies—from traditional hierarchies to dynamic task networks where humans orchestrate AI systems rather than perform routine tasks themselves. **AI doesn't push humans down. It elevates us—if we let it**. The tedious, repetitive, dangerous work gets automated. What remains is the distinctly human work: judgment, creativity, connection, responsibility.
 
-The question for CS departments becomes: are we training traditional programmers for jobs that will be automated, or AI-augmented software engineers who can ride the AI wave?
+This represents a broader occupational divide emerging across industries: workers whose tasks can be standardized face structural displacement, while those who create new value collaborating with AI see surging demand and rising bargaining power. For CS graduates, the question becomes clear: which side of this divide will they be on?
 
-Steve Yegge offers a clue about what this new role requires. He notes that even when you no longer write code yourself, you still need to understand how things work at a "language-agnostic" level. You need to grasp concepts like functions, objects, system architecture—not to implement them, but to direct AI systems that will.
+**The critical question for CS departments: are we training traditional programmers for jobs that will be automated, or AI-augmented software engineers who can ride the AI wave?**
+
+Understanding what the winning side of this divide actually does reveals where CS education needs to evolve. Steve Yegge offers crucial insights about what this new role requires. He notes that even when you no longer write code yourself, you still need to understand how things work at a "language-agnostic" level. You need to grasp concepts like functions, objects, system architecture—not to implement them, but to direct AI systems that will.
 
 **The real skill isn't coding anymore. It's orchestrating agents**. It's knowing when to use which AI model, how to decompose complex tasks, how to validate outputs. It's engineering at a higher level of abstraction.
+
+Companies are reorganizing around this reality—replacing middle management layers with AI coordination systems while elevating humans to strategic decision-making roles. This is why CS students need to learn human-AI collaboration not as an add-on skill, but as a core competency that shapes how they think about software engineering itself.
 
 But it's more than that. Yegge's collaborator Jeffrey Emanuel, who built an "agent mail" system for AI coordination, is a mathematician who taught himself engineering. He doesn't necessarily write code, but he understands how Cassandra works, how distributed systems behave, what the architectural tradeoffs are.
 
@@ -220,35 +228,23 @@ The uncomfortable truth is that exam-oriented learning has already proven ineffi
 
 Some people will excel at using AI and outcompete those who resist it due to bias against progressive technology. This isn't a prediction; it's already happening. The only question is whether CS education will help students get on the right side of this divide, or leave them stranded on the wrong one.
 
-## Escaping the Commodity Trap: Cultivating Uniqueness and Agency
+## What Kind of Knowledge Can't Be Commoditized?
 
-Zhenyu Luo, a prominent Chinese media entrepreneur and host of the influential annual "Time's Friend" New Year's Eve speech (think China's equivalent of a TED talk meets a State of the Union address, watched by millions), offers another lens on this challenge for CS students. In his 2026 address, he poses a question to parents anxious about their children's future: What kind of person is unafraid of change?
+Getting students on the right side of this divide requires understanding what kind of knowledge AI cannot easily replicate. In an age where AI can access and apply most technical information more efficiently than humans, what should CS education actually prioritize?
 
-His answer: someone with uniqueness. In an AI age, standardized skills are precisely what gets automated most easily. The more human data AI has to learn from in a domain, the more effectively it can replace human workers there.
+Media entrepreneur Zhenyu Luo offers a useful framework. He divides all knowledge into two categories: **knowledge that can be fully mastered**, and **knowledge that can never be completely learned**.
 
-**The mission of future education should be helping each person "invent a profession that only they are most qualified for."**
+Any knowledge with clear boundaries will eventually be dominated by AI—because wherever boundaries exist, humans have accumulated experience, and that experience becomes training data. But knowledge domains with no fixed endpoint remain indispensable human territory: How do you identify which problems are worth solving? How do you build and lead effective teams? For CS students specifically: **How do you translate messy real-world scenarios into computable models?** This boundless, open-ended knowledge—requiring judgment calls without guaranteed answers—is what the next generation must focus on developing.
 
-This sounds abstract, but he gives concrete examples. A young man named Cao Dezhi, neither a top-tier university graduate nor a traditional success story, created a niche business making miniature 3D models of people's demolished childhood homes—a "micro-scene designer." At 30, he's essentially invented his own profession.
+This suggests education should help students cultivate what makes them irreplaceable rather than standardized. In an AI age, **standardized skills are precisely what gets automated most easily**. The more human data AI has to learn from in a domain, the more effectively it can replace human workers there.
 
-For education, this suggests we need to flip our assumptions. The old logic: follow the crowd to safety. Pick popular majors. Do what everyone else does. The new logic: escape uniformity. Cultivate distinctiveness. Accumulate unique experiences.
+Some innovative programs are already experimenting with this approach. Rather than teaching students to memorize prompts, they give them real tasks with real deadlines—forcing creative problem-solving under pressure. Schools like Chuangzhi Academy in Shanghai have students "start a company" upon enrollment, bringing actual products to market rather than building toy projects for grades.
 
-A teacher named Li Rui, a former star math instructor in China's competitive tutoring industry, has started a new kind of training program. He teaches children to use AI not through memorizing prompts, but by giving them real tasks with real deadlines. He commissioned a group of kids to design 34 promotional images for an actual marketing campaign. The pressure of real deliverables forced creative problem-solving that no curriculum could teach.
+The old educational logic: follow the crowd to safety, pick popular majors, do what everyone else does. The new logic: escape uniformity, cultivate distinctiveness, accumulate unique experiences that combine technical skill with domain insight in ways AI cannot replicate from training data alone.
 
-Some innovative schools are taking this further. The Kechuang Academy in Shenzhen (China's tech hub, often called the "Silicon Valley of the East") and Chuangzhi Academy in Shanghai are running programs where students "start a company" upon enrollment. The goal isn't credentials—it's bringing a real product to market. Market research, prototyping, manufacturing, launch. Education as cultivating agency through purposive action.
+Why does this matter? Because AI's capabilities come from training data—the accumulated record of human experience. Where data is abundant, AI is incredibly powerful. But at the edges of known territory, where humans must venture into genuinely new problems without clear precedent, AI stumbles.
 
-But cultivating agency raises a deeper question: agency to do *what*? What kind of knowledge should students focus on developing?
-
-Luo offers a powerful framework. He divides all knowledge into two categories: **knowledge that can be fully mastered**, and **knowledge that can never be completely learned**.
-
-Any knowledge with clear boundaries will eventually be dominated by AI—because wherever boundaries exist, humans have accumulated experience, and that experience becomes training data. But the knowledge domains where humans will remain indispensable are those with no fixed endpoint: How do you start a company? How do you manage people? How do you do sales? For CS students specifically: **How do you translate messy real-world scenarios into computable models?** This boundless, open-ended knowledge—requiring judgment calls without guaranteed answers—is what the next generation must focus on learning.
-
-Why does this distinction matter? Because AI's capabilities come from training data—the accumulated record of human experience. Near the center of human civilization, where data is abundant, AI is incredibly powerful. But at the edges? In the darkness of the unknown? AI stumbles.
-
-What humans have that AI lacks is willpower—the ability to conceive of a destination in the unknown darkness and set off toward it without evidence that the journey will succeed.
-
-Nicolaus Copernicus proposing heliocentrism against all established doctrine, without the observational proof that would come centuries later. Einstein revolutionizing physics with relativity, making predictions that wouldn't be experimentally verified for years. Zhang Qian opening the Silk Road into unknown territories. Columbus sailing west into uncharted waters without a map. What these heroes share isn't knowledge or skill. It's the capacity for what Kant called judgment "subjectively justified but objectively groundless." They departed—intellectually or physically—before they had proof they'd arrive.
-
-This capacity for visionary commitment can't be extracted from training data because, by definition, it ventures beyond where data exists.
+What humans have that AI fundamentally lacks is the capacity for visionary commitment—the ability to identify a destination in unknown territory and pursue it without proof of success. Einstein making predictions that wouldn't be verified for years. Pioneers opening new territories without maps. **This capacity for purposive action toward uncertain goals can't be extracted from training data because, by definition, it ventures beyond where data exists.**
 
 **Cultivating agency, initiative, and the capacity for purposive action might matter more than any specific technical skill**. The CS graduates who will thrive aren't those with the most knowledge—AI has more—but those who can identify problems worth solving that no one else sees, envision solutions that don't yet exist, rally resources and people to build something new, and persist through uncertainty when there's no guarantee of success.
 
@@ -268,7 +264,9 @@ So where does this leave CS education? While I'm synthesizing observations from 
 
 **Fifth**, acknowledge the ROI crisis honestly. If families are taking on six figures of debt for CS degrees that tech giants no longer require, something is broken. Departments need to either deliver value that justifies the cost, or adjust the cost to match the value they deliver.
 
-**Sixth**, preserve what truly matters in CS research. Research universities have a crucial additional mission: pushing the frontiers of knowledge. While industry leads in AI engineering applications, basic research requires the long-term, uncertain work that companies won't fund. This is academia's irreplaceable contribution. The challenge for CS research in the AI age is maintaining focus on genuine scientific breakthrough. The most impactful work will likely come from fundamental questions about computation and intelligence that have no immediate commercial application, theoretical foundations that might take decades to bear fruit, interdisciplinary collaboration that bridges CS with other sciences, and critical evaluation of AI systems' societal impacts and limitations. Be ruthless about distinguishing genuine scientific inquiry from academic busywork. The world doesn't need more papers about fine-tuned models. The departments that thrive will be those that resist the pressure to chase short-term trends and instead ask the hard questions that only patient, rigorous academic inquiry can address.
+**Sixth**, preserve what truly matters in CS research. Research universities have a crucial additional mission: pushing the frontiers of knowledge. While industry leads in AI engineering applications, basic research requires the long-term, uncertain work that companies won't fund. This is academia's irreplaceable contribution.
+
+The challenge for CS research in the AI age is maintaining focus on genuine scientific breakthrough—fundamental questions about computation and intelligence with no immediate commercial application, theoretical foundations that might take decades to bear fruit, interdisciplinary collaboration that bridges CS with other sciences, and critical evaluation of AI systems' societal impacts and limitations. Be ruthless about distinguishing genuine scientific inquiry from academic busywork. The world doesn't need more papers about fine-tuned models. The departments that thrive will be those that resist the pressure to chase short-term trends and instead ask the hard questions that only patient, rigorous academic inquiry can address.
 
 But these six propositions only scratch the surface. The real challenges lie in implementation.
 
