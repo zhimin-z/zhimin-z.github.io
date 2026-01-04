@@ -88,8 +88,8 @@ Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings
 
 *Conference*
 - Organizer: [TODO]
-- Reviewer/PC: [TODO]
-- External Reviewer: [TODO]
+- Reviewer/PC: MSR (Mining Challenge)
+- External Reviewer: ICSE (Industry Challenge Track)
 
 # 💻 Internships
 
