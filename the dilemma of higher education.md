@@ -222,7 +222,7 @@ Some people will excel at using AI and outcompete those who resist it due to bia
 
 ## Escaping the Commodity Trap: Cultivating Uniqueness and Agency
 
-Luo Zhenyu, a prominent Chinese media entrepreneur and host of the influential annual "Time's Friend" New Year's Eve speech (think China's equivalent of a TED talk meets a State of the Union address, watched by millions), offers another lens on this challenge for CS students. In his 2026 address, he poses a question to parents anxious about their children's future: What kind of person is unafraid of change?
+Zhenyu Luo, a prominent Chinese media entrepreneur and host of the influential annual "Time's Friend" New Year's Eve speech (think China's equivalent of a TED talk meets a State of the Union address, watched by millions), offers another lens on this challenge for CS students. In his 2026 address, he poses a question to parents anxious about their children's future: What kind of person is unafraid of change?
 
 His answer: someone with uniqueness. In an AI age, standardized skills are precisely what gets automated most easily. The more human data AI has to learn from in a domain, the more effectively it can replace human workers there.
 
@@ -236,13 +236,17 @@ A teacher named Li Rui, a former star math instructor in China's competitive tut
 
 Some innovative schools are taking this further. The Kechuang Academy in Shenzhen (China's tech hub, often called the "Silicon Valley of the East") and Chuangzhi Academy in Shanghai are running programs where students "start a company" upon enrollment. The goal isn't credentials—it's bringing a real product to market. Market research, prototyping, manufacturing, launch. Education as cultivating agency through purposive action.
 
-But Luo makes what I consider his most profound observation about the human-AI difference—one that's particularly relevant for CS students.
+But cultivating agency raises a deeper question: agency to do *what*? What kind of knowledge should students focus on developing?
 
-AI's capabilities come from training data—the accumulated record of human experience. Near the center of human civilization, where data is abundant, AI is incredibly powerful. But at the edges? In the darkness of the unknown? AI stumbles.
+Luo offers a powerful framework. He divides all knowledge into two categories: **knowledge that can be fully mastered**, and **knowledge that can never be completely learned**.
+
+Any knowledge with clear boundaries will eventually be dominated by AI—because wherever boundaries exist, humans have accumulated experience, and that experience becomes training data. But the knowledge domains where humans will remain indispensable are those with no fixed endpoint: How do you start a company? How do you manage people? How do you do sales? For CS students specifically: **How do you translate messy real-world scenarios into computable models?** This boundless, open-ended knowledge—requiring judgment calls without guaranteed answers—is what the next generation must focus on learning.
+
+Why does this distinction matter? Because AI's capabilities come from training data—the accumulated record of human experience. Near the center of human civilization, where data is abundant, AI is incredibly powerful. But at the edges? In the darkness of the unknown? AI stumbles.
 
 What humans have that AI lacks is willpower—the ability to conceive of a destination in the unknown darkness and set off toward it without evidence that the journey will succeed.
 
-Zhang Qian, the Han Dynasty explorer who first opened the Silk Road two millennia ago. Columbus sailing west. Magellan circumnavigating the globe. What these heroes share isn't knowledge or skill. It's the capacity for what Kant called judgment "subjectively justified but objectively groundless." They departed before they had proof they'd arrive.
+Nicolaus Copernicus proposing heliocentrism against all established doctrine, without the observational proof that would come centuries later. Einstein revolutionizing physics with relativity, making predictions that wouldn't be experimentally verified for years. Zhang Qian opening the Silk Road into unknown territories. Columbus sailing west into uncharted waters without a map. What these heroes share isn't knowledge or skill. It's the capacity for what Kant called judgment "subjectively justified but objectively groundless." They departed—intellectually or physically—before they had proof they'd arrive.
 
 This capacity for visionary commitment can't be extracted from training data because, by definition, it ventures beyond where data exists.
 
