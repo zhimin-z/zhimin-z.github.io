@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-- title: "Books"
+  - title: "Books"
     url: "/#-books"
 
   - title: "Papers"
