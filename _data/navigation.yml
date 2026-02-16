@@ -3,10 +3,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Blogs"
-    url: "https://medium.com/@zhiminzhao"
-
-  - title: "Books"
+- title: "Books"
     url: "/#-books"
 
   - title: "Papers"
