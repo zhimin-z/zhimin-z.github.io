@@ -27,7 +27,45 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 # 📝 Blogs
 
-Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings and thoughts.
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The AGI Paradox: We Might Never Realize AGI, and Here is Why**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Vanishing Middle: When Management Becomes the Bottleneck**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Oedipus Paradox of Computer Science: Why AI is Slashing the Value of Your Curriculum Before You Even Graduate**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
 
 # 📚 Books
 
