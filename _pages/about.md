@@ -66,6 +66,14 @@ Visit [my blog](https://medium.com/@zhiminzhao) on Medium for my latest writings
 
 # 📝 Papers
 
+- &nbsp; <span class="badge">arXiv'26</span> &nbsp;**Why Code, Why Now: Learnability, Computability, and the Real Limits of Machine Learning**
+
+  <span style="font-size:13px;"> Zhimin Zhao</span>
+
+  <span style="font-size:14px;"> *arXiv preprint*, 2026. </span>
+
+  [[paper](https://arxiv.org/abs/2602.13934)]
+
 - &nbsp; <span class="badge">FORGE'25</span> &nbsp;**SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering**
 
   <span style="font-size:13px;"> Zhimin Zhao</span>
