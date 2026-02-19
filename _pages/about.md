@@ -156,7 +156,7 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 - **[Software Engineering Arena](https://github.com/SE-Arena/Software-Engineer-Arena)** -- Initiator. An interactive platform for evaluating foundation models in software engineering through community-driven pairwise comparisons and Elo-based ranking.
 - **[Awesome Foundation Model Leaderboards](https://github.com/SAILResearch/awesome-foundation-model-leaderboards)** -- Initiator. A curated list tracking the ecosystem of foundation model leaderboards, including their workflows, best practices, and operational patterns.
 - **[Easy-Pocket](https://github.com/datawhalechina/easy-pocket)** -- Initiator. An interactive tutorial for PocketFlow, teaching developers to build chatbots, RAG systems, agents, and workflows using minimal LLM application framework abstractions.
-- **[EthicalML](https://github.com/EthicalML)** -- Maintainer. A GitHub organization hosting open-source projects for deploying, monitoring, versioning, and securing production ML systems.
+- **[EthicalML](https://github.com/EthicalML)** -- Maintainer. A community building open-source tools and curated resources for responsible, production-grade machine learning.
 - **[Auto-Cap](https://huggingface.co/auto-cap)** -- Maintainer. An interactive benchmark dashboard for evaluating cost, accuracy, and performance of sparse Mixture-of-Experts systems.
 
 # 🎖 Honors and Awards
