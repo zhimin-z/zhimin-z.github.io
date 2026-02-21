@@ -27,6 +27,18 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
 # 📝 Blogs
 
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software**
+
+  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
+
+  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
+
 - &nbsp; <span class="badge">Medium'26</span> &nbsp;**The AGI Paradox: We Might Never Realize AGI, and Here is Why**
 
   <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
@@ -39,24 +51,12 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
   [[blog](https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3)]
 
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
-
-  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
-
 - &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates**
 
   <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
 
   [[blog](https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791)]
-
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software**
-
-  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
-
+  
 # 📚 Books
 
 - &nbsp; <span class="badge">Tsinghua'26</span> &nbsp;**零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)**
