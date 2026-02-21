@@ -56,12 +56,12 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
   <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
 
   [[blog](https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791)]
-  
+
 # 📚 Books
 
 - &nbsp; <span class="badge">Tsinghua'26</span> &nbsp;**零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)**
 
-  <span style="font-size:13px;"> Ruchun Jia, Zhimin Zhao </span>
+  <span style="font-size:13px;"> Ruchun Jia, Zhimin Zhao, Shaochun Hao </span>
 
   <span style="font-size:14px;"> *Tsinghua University Press*, Under Review, 2026. </span>
 
