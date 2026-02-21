@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu.ca), supervised by [Dr. Ahmed E. Hassan](https://en.wikipedia.org/wiki/Ahmed_E._Hassan) (ACM/IEEE Fellow). He received his Master degree from [CG@Penn](http://cg.cis.upenn.edu) and Bachelor degree from [ISC@BIT](https://www.isclab.org.cn).
+Zhimin (Jimmy) Zhao is a PhD candidate at [SAIL@Queen's](https://sail.cs.queensu.ca), working with [Dr. Ahmed E. Hassan](https://en.wikipedia.org/wiki/Ahmed_E._Hassan) (ACM/IEEE Fellow) on making AI systems more reliable and software engineering more intelligent. His research sits at the intersection of AI and software engineering — building better tools for AI (LLMOps, MLOps), using AI to build better software (AI4SE, LLM4Code), and engineering best practices for AI-powered systems (SE4AI).
 
-🔎 His research focuses on operations and quality assurance for AI/ML systems (LLMOps, MLOps); applying large language models to automate software engineering tasks (AI4SE, LLM4Code); engineering best practices for AI-powered software (SE4AI).
+Previously, he earned his Master's degree from [CG@Penn](http://cg.cis.upenn.edu) with [Dr. Stephen H. Lane](https://www.cis.upenn.edu/~shlane), and his Bachelor's degree from [ISC@BIT](https://www.isclab.org.cn) with [Dr. Senlin Luo](https://baike.baidu.com/item/%E7%BD%97%E6%A3%AE%E6%9E%97/10037772).
 
 ***P.S.*** My Chinese name is "赵志民" and my English name is "Jimmy Zhao."
 
