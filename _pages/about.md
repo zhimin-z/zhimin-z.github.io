@@ -39,19 +39,19 @@ Zhimin (Jimmy) Zhao is a PhD candidate in [SAIL@Queen's](https://sail.cs.queensu
 
   [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
 
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Vanishing Middle: When Management Becomes the Bottleneck**
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Vanishing Middle: When Management Becomes the Bottleneck**
 
   <span style="font-size:14px;"> *Medium*, Jan 2025. </span>
 
   [[blog](https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3)]
 
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
 
   <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
 
   [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
 
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates**
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates**
 
   <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
 
