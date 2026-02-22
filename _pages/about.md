@@ -159,7 +159,7 @@ Previously, he earned his Master's degree from [CG@Penn](http://cg.cis.upenn.edu
 
 # 💬 Service
 
-- Reviewer/PC, [Mining Software Repositories (MSR 2026)](https://www.msrconf.org), Mining Challenge Track
+- PC Member, [Mining Software Repositories (MSR 2026)](https://www.msrconf.org), Mining Challenge Track
 - External Reviewer, [International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/home/icse-2026), Industry Challenge Track
 - Member, [Institute for Ethical AI & Machine Learning](https://ethical.institute)
 - Member, [Datawhale](https://github.com/datawhalechina), authoring and maintaining open-source educational materials on machine learning theory and practices
