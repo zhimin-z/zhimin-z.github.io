@@ -25,38 +25,6 @@ Previously, he earned his Master's degree from [CG@Penn](http://cg.cis.upenn.edu
 
 **Email**: z DOT zhao AT queensu DOT ca
 
-# 📝 Blogs
-
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The AGI Paradox: We Might Never Realize AGI, and Here is Why**
-
-  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684)]
-
-- &nbsp; <span class="badge">Medium'26</span> &nbsp;**When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software**
-
-  <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
-
-- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Vanishing Middle: When Management Becomes the Bottleneck**
-
-  <span style="font-size:14px;"> *Medium*, Jan 2025. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3)]
-
-- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
-
-  <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
-
-- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates**
-
-  <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
-
-  [[blog](https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791)]
-
 # 📚 Books
 
 - &nbsp; <span class="badge">Tsinghua'26</span> &nbsp;**零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)**
@@ -141,23 +109,47 @@ Previously, he earned his Master's degree from [CG@Penn](http://cg.cis.upenn.edu
   [[paper](https://link.springer.com/article/10.1007/s10664-024-10474-4)]
   [[code](https://github.com/zhimin-z/Asset-Management-Topic-Modeling)]
 
-# 🔧 Open Source Projects
+# 📝 Blogs
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**The AGI Paradox: We Might Never Realize AGI, and Here is Why**
+
+  <span style="font-size:14px;"> *Medium*, Feb 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684)]
+
+- &nbsp; <span class="badge">Medium'26</span> &nbsp;**When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software**
+
+  <span style="font-size:14px;"> *Medium*, Jan 2026. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d)]
+
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Vanishing Middle: When Management Becomes the Bottleneck**
+
+  <span style="font-size:14px;"> *Medium*, Jan 2025. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3)]
+
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It**
+
+  <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df)]
+
+- &nbsp; <span class="badge">Medium'25</span> &nbsp;**The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates**
+
+  <span style="font-size:14px;"> *Medium*, Dec 2025. </span>
+
+  [[blog](https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791)]
+
+# 🔧 Open Source Contributions
 
 - **[Software Engineering Arena](https://github.com/SE-Arena/Software-Engineer-Arena)** -- Initiator. An interactive platform for evaluating foundation models in software engineering through community-driven pairwise comparisons and Elo-based ranking.
 - **[Awesome AI Leaderboards](https://github.com/SAILResearch/awesome-foundation-model-leaderboards)** -- Initiator. A curated list of AI leaderboards, development tools, and evaluation organizations compiled from a comprehensive survey of the leaderboard ecosystem.
 - **[Easy-Pocket](https://github.com/datawhalechina/easy-pocket)** -- Initiator. An interactive tutorial for PocketFlow, teaching developers to build chatbots, RAG systems, agents, and workflows using minimal LLM application framework abstractions.
 - **[EthicalML](https://github.com/EthicalML)** -- Maintainer. A community building open-source tools and curated resources for responsible, production-grade machine learning.
-- **[Auto-Cap](https://huggingface.co/auto-cap)** -- Maintainer. An interactive benchmark dashboard for evaluating cost, accuracy, and performance of sparse Mixture-of-Experts systems.
+- **[Auto-Cap](https://huggingface.co/auto-cap)** -- Maintainer. An interactive benchmark for evaluating cost, accuracy, and performance of sparse Mixture-of-Experts systems.
 
-# 🎖 Honors and Awards
-
-- *2024* Platinum Prize, Poster Track, [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/winners-of-2024)
-- *2020* Outstanding Mentor, American Top Education Elite Plan, Harbour Education
-- *2016* Shortlisted, [Chunhui Cup Oversea Students Innovation and Entrepreneurship Competition](http://cyds.cscse.edu.cn), Ministry of Education & Ministry of Science and Technology, China
-- *2014* Excellent Graduate, Beijing Institute of Technology
-- *2013* Meritorious Prize, [Mathematical Contest in Modeling (MCM)](https://www.comap.com/contests/mcm-icm)
-
-# 💬 Service
+# 💬 Community Services
 
 - PC Member, [Mining Software Repositories (MSR 2026)](https://www.msrconf.org), Mining Challenge Track
 - External Reviewer, [International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/home/icse-2026), Industry Challenge Track
@@ -170,7 +162,15 @@ Previously, he earned his Master's degree from [CG@Penn](http://cg.cis.upenn.edu
 - *2014 - 2016*, M.S.E. in Computer Graphics and Game Technology, [University of Pennsylvania](https://www.upenn.edu), USA. Supervisor: [Dr. Stephane Lane](https://www.seas.upenn.edu/~shlane).
 - *2010 - 2014*, B.Eng. in Information Countermeasure Technology, [Beijing Institute of Technology](https://english.bit.edu.cn), China. Supervisor: [Dr. Senlin Luo](https://cst.bit.edu.cn/szdw/jsml/bssds/a21187d873b645839fdd996387c79efa.htm).
 
-# 📐 Teaching
+# 🎖 Honors and Awards
+
+- *2024* Platinum Prize, Poster Track, [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/winners-of-2024)
+- *2020* Outstanding Mentor, American Top Education Elite Plan, Harbour Education
+- *2016* Shortlisted, [Chunhui Cup Oversea Students Innovation and Entrepreneurship Competition](http://cyds.cscse.edu.cn), Ministry of Education & Ministry of Science and Technology, China
+- *2014* Excellent Graduate, Beijing Institute of Technology
+- *2013* Meritorious Prize, [Mathematical Contest in Modeling (MCM)](https://www.comap.com/contests/mcm-icm)
+
+# 📐 Teaching Experience
 
 *Queen's University*
 - Teaching Assistant, [CISC 322 Software Architecture](https://www.cs.queensu.ca/undergraduate/courses/CISC-322), 2024
