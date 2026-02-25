@@ -1,25 +1,28 @@
 # main links links
 main:
-  - title: "News"
-    url: "/#-news"
-
   - title: "Books"
     url: "/#-books"
 
   - title: "Papers"
     url: "/#-papers"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Blogs"
+    url: "/#-blogs"
 
-  - title: "Service"
-    url: "/#-service"
+  - title: "Open Source Contributions"
+    url: "/#-open-source-contributions"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Community Services"
+    url: "/#-community-services"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Experience"
+    url: "/#-experience"
