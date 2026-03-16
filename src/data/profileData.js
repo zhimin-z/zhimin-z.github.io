@@ -90,28 +90,28 @@ export const highlights = [
 
 export const books = [
   {
-    badge: "Tsinghua'26",
+    badge: "Tsinghua",
     title: '零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)',
     authors: 'Ruchun Jia, Zhimin Zhao, Shaochun Hao',
     venue: 'Tsinghua University Press, Under Review, 2026.',
     links: [{ label: 'code', url: 'https://github.com/zhimin-z/aliyun_bailian' }]
   },
   {
-    badge: "Tsinghua'25",
+    badge: "Tsinghua",
     title: '从DeepSeek到Manus：大模型与多智能体系统原理与实践 (From DeepSeek to Manus: Principles and Practice of Large Models and Multi-Agent Systems)',
     authors: 'Ruchun Jia, Zhimin Zhao',
     venue: 'Tsinghua University Press, Under Review, 2025.',
     links: [{ label: 'code', url: 'https://github.com/zhimin-z/deepseek_manus' }]
   },
   {
-    badge: "Tsinghua'25",
+    badge: "Tsinghua",
     title: '生成式人工智能：核心原理与应用 (Generative Artificial Intelligence: Core Principles and Applications)',
     authors: 'Ruchun Jia, Qi Wang, Zhimin Zhao',
     venue: 'Tsinghua University Press, Under Review, 2025.',
     links: [{ label: 'code', url: 'https://github.com/qiwang067/genai_cn' }]
   },
   {
-    badge: "Datawhale'24",
+    badge: "Datawhale",
     title: '钥匙书：机器学习理论导引讲解 (Key Book: A Guide to Machine Learning Theory)',
     authors: 'Zhan Hao, Zhimin Zhao',
     venue: 'Datawhale, 2024.',
@@ -124,14 +124,14 @@ export const books = [
 
 export const papers = [
   {
-    badge: "arXiv'26",
+    badge: "arXiv",
     title: 'Why Code, Why Now: Learnability, Computability, and the Real Limits of Machine Learning',
     authors: 'Zhimin Zhao',
     venue: 'arXiv preprint, 2026.',
     links: [{ label: 'paper', url: 'https://arxiv.org/abs/2602.13934' }]
   },
   {
-    badge: "FORGE'25",
+    badge: "FORGE",
     title: 'SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering',
     authors: 'Zhimin Zhao',
     venue: 'ACM International Conference on AI Foundation Models and Software Engineering, 2025.',
@@ -141,7 +141,7 @@ export const papers = [
     ]
   },
   {
-    badge: "TSE'25",
+    badge: "TSE",
     title: 'On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards',
     authors: 'Zhimin Zhao, Abdul Ali Bangash, Filipe Roseiro Côgo, Bram Adams, Ahmed E. Hassan',
     venue: 'IEEE Transactions on Software Engineering, 2025.',
@@ -151,21 +151,21 @@ export const papers = [
     ]
   },
   {
-    badge: "EMSE'25",
+    badge: "EMSE",
     title: 'What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times',
     authors: 'Zitao Wang, Zhimin Zhao, Michael W. Godfrey',
     venue: 'Empirical Software Engineering, Under Review, 2025.',
     links: []
   },
   {
-    badge: "EMSE'25",
+    badge: "EMSE",
     title: 'The State of the SBOM Tools Ecosystem and their Prevalence in OSS: A Comparative Analysis of SPDX and CycloneDX',
     authors: 'Abdul Ali Bangash, Tongxu Ge, Zhimin Zhao, Bram Adams',
     venue: 'Empirical Software Engineering, Under Review, 2025.',
     links: []
   },
   {
-    badge: "EMSE'24",
+    badge: "EMSE",
     title: 'An Empirical Study of Challenges in Machine Learning Asset Management',
     authors: 'Zhimin Zhao, Yihao Chen, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan',
     venue: 'Empirical Software Engineering, 2024.',
@@ -177,11 +177,12 @@ export const papers = [
 ]
 
 export const blogs = [
-  { badge: "Medium'26", title: 'The AGI Paradox: We Might Never Realize AGI, and Here is Why', venue: 'Medium, Feb 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684' }] },
-  { badge: "Medium'26", title: 'When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software', venue: 'Medium, Jan 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d' }] },
-  { badge: "Medium'25", title: 'The Vanishing Middle: When Management Becomes the Bottleneck', venue: 'Medium, Jan 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3' }] },
-  { badge: "Medium'25", title: 'The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df' }] },
-  { badge: "Medium'25", title: 'The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791' }] }
+  { badge: "Medium", title: 'Why "Vibe Coding" Took Over Programming, But Not the Rest of Software Engineering', venue: 'Medium, Mar 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/why-vibe-coding-took-over-programming-but-not-the-rest-of-software-engineering-0e42d631713d' }] },
+  { badge: "Medium", title: 'The AGI Paradox: We Might Never Realize AGI, and Here is Why', venue: 'Medium, Feb 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684' }] },
+  { badge: "Medium", title: 'When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software', venue: 'Medium, Jan 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d' }] },
+  { badge: "Medium", title: 'The Vanishing Middle: When Management Becomes the Bottleneck', venue: 'Medium, Jan 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3' }] },
+  { badge: "Medium", title: 'The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df' }] },
+  { badge: "Medium", title: 'The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791' }] }
 ]
 
 export const openSource = [
