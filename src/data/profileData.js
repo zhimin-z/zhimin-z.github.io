@@ -39,7 +39,7 @@ export const brandNarrative = {
 }
 
 export const quickNav = [
-  { id: 'numbers', label: '📈 By Numbers' },
+  { id: 'numbers', label: '📈 Contributions By Numbers' },
   { id: 'highlights', label: '🚀 Research Highlights' },
   { id: 'opensource', label: '🔧 Open Source' },
   { id: 'books', label: '📚 Books' },

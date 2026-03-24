@@ -135,7 +135,7 @@ onBeforeUnmount(() => {
       </section>
 
       <section id="numbers" class="card isolated">
-        <h2>📈 By Numbers</h2>
+        <h2>📈 Contributions By Numbers</h2>
         <div class="numbers-grid">
           <article class="stat-card" v-for="item in byNumbers" :key="item.label">
             <div class="stat-value">{{ item.value }}</div>
