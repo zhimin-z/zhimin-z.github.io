@@ -2,7 +2,7 @@ export const profile = {
   name: 'Zhimin (Jimmy) Zhao',
   cnName: '赵志民',
   email: 'z DOT zhao AT queensu DOT ca',
-  title: "PhD Candidate at SAIL@Queen's",
+  title: "PhD Candidate",
   subtitle:
     "Working with Dr. Ahmed E. Hassan (ACM/IEEE Fellow) at the intersection of AI and Software Engineering.",
   tags: ['AI4SE', 'SE4AI', 'LLMOps', 'MLOps', 'LLM4Code'],
