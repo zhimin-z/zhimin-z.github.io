@@ -55,7 +55,7 @@ export const quickNav = [
 
 export const byNumbers = [
   { label: 'Books', value: '4' },
-  { label: 'Papers', value: '6+' },
+  { label: 'Papers', value: '6' },
   { label: 'Teaching Roles', value: '3' },
   { label: 'Community Services', value: '10+' },
   { label: 'Years in Industry + Research', value: '10+' }
