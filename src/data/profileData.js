@@ -113,7 +113,7 @@ export const books = [
   {
     badge: "Datawhale",
     title: '钥匙书：机器学习理论导引讲解 (Key Book: A Guide to Machine Learning Theory)',
-    authors: 'Zhimin Zhao, Zhan Hao',
+    authors: 'Zhimin Zhao, Hao Zhan',
     venue: 'Datawhale, 2024.',
     links: [
       { label: 'online', url: 'https://datawhalechina.github.io/key-book' },
