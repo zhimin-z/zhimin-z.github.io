@@ -108,7 +108,7 @@ onBeforeUnmount(() => {
             I am currently a {{ profile.title }} at
             <a :href="profile.links.sail" target="_blank" rel="noreferrer">SAIL@Queen's</a>, advised by
             <a :href="profile.links.advisor" target="_blank" rel="noreferrer">Dr. Ahmed E. Hassan</a>
-            (ACM/IEEE Fellow), working at the intersection of <strong>AI + Software Engineering</strong>.
+            (ACM/IEEE Fellow), working at the intersection of <strong>AI + SE</strong>.
           </p>
           <p class="intro">
             Previously, I earned my Master's degree from

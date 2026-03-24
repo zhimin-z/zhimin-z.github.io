@@ -4,7 +4,7 @@ export const profile = {
   email: 'z DOT zhao AT queensu DOT ca',
   title: "PhD Candidate",
   subtitle:
-    "Working with Dr. Ahmed E. Hassan (ACM/IEEE Fellow) at the intersection of AI and Software Engineering.",
+    "Working with Dr. Ahmed E. Hassan (ACM/IEEE Fellow) at the intersection of AI and SE.",
   tags: ['AI4SE', 'SE4AI', 'LLMOps', 'MLOps', 'LLM4Code'],
   intro:
     "I work on making AI systems more reliable and software engineering more intelligent. Previously, I earned my Master's degree from CG@Penn and my Bachelor's degree from ISC@BIT.",
@@ -19,7 +19,7 @@ export const profile = {
 }
 
 export const brandNarrative = {
-  kicker: 'AI + Software Engineering Researcher · Builder · Author',
+  kicker: 'AI + SE Researcher · Builder · Author',
   headline:
     'I build research, benchmarks, and open-source systems that make AI engineering more rigorous and software engineering more intelligent.',
   pillars: [
