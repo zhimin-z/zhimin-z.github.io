@@ -45,6 +45,7 @@ export const quickNav = [
   { id: 'books', label: '📚 Books' },
   { id: 'papers', label: '📝 Papers' },
   { id: 'blogs', label: '📝 Blogs' },
+  { id: 'demoreels', label: '🎬 Demo Reels' },
   { id: 'community', label: '💬 Community Services' },
   { id: 'education', label: '📖 Educations' },
   { id: 'honors', label: '🎖 Honors and Awards' },
@@ -184,6 +185,10 @@ export const blogs = [
   { badge: "Medium", title: 'The Vanishing Middle: When Management Becomes the Bottleneck', venue: 'Medium, Jan 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-vanishing-middle-when-management-becomes-the-bottleneck-a079ac08ffd3' }] },
   { badge: "Medium", title: 'The Missing Rung: Why CS Graduates Are Facing an Invisible Crisis and What to Do About It', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-missing-rung-why-cs-graduates-are-facing-an-invisible-crisis-and-what-to-do-about-it-f279a629b1df' }] },
   { badge: "Medium", title: 'The Curse of Expertise in CS Education: Why AI-Fluent High Schoolers May Outperform Your Graduates', venue: 'Medium, Dec 2025.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-cs-departments-existential-crisis-when-ai-makes-your-curriculum-obsolete-before-students-b637cc67e791' }] }
+]
+
+export const demoReels = [
+  { title: 'Demo Reels', url: 'https://www.youtube.com/watch?v=zFPO7Nr4bM8&list=PLisQsVOIdMfRj7WicZocqBoOFMjJmJjZP' }
 ]
 
 export const openSource = [

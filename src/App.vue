@@ -9,6 +9,7 @@ import {
   books,
   papers,
   blogs,
+  demoReels,
   openSource,
   community,
   education,
@@ -204,6 +205,21 @@ onBeforeUnmount(() => {
           <p>{{ b.venue }}</p>
           <div class="links"><a :href="b.links[0].url" target="_blank" rel="noreferrer" @click.stop>blog</a></div>
         </article>
+      </section>
+
+      <section id="demoreels" class="card isolated">
+        <h2>🎬 Demo Reels</h2>
+        <p class="section-intro">Visual showcases from past projects.</p>
+        <div class="video-embed" v-for="d in demoReels" :key="d.url">
+          <iframe
+            :src="'https://www.youtube.com/embed/zFPO7Nr4bM8?list=PLisQsVOIdMfRj7WicZocqBoOFMjJmJjZP'"
+            title="Demo Reels"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            style="width:100%;aspect-ratio:16/9;border-radius:8px;"
+          ></iframe>
+        </div>
       </section>
 
       <section id="community" class="card isolated">
