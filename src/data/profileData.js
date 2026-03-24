@@ -177,7 +177,7 @@ export const papers = [
 ]
 
 export const blogs = [
-  { badge: "Medium", title: 'Why the Best AI Developer Tools Look Like 1975', venue: 'Medium, Mar 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/why-the-best-ai-developer-tools-look-like-1975-71c73c9da7ec' }] },
+  { badge: "Medium", title: 'The Interface Tax: Why AI Is Abandoning the GUI', venue: 'Medium, Mar 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/why-the-best-ai-developer-tools-look-like-1975-71c73c9da7ec' }] },
   { badge: "Medium", title: 'Why "Vibe Coding" Took Over Programming, But Not the Rest of Software Engineering', venue: 'Medium, Mar 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/why-vibe-coding-took-over-programming-but-not-the-rest-of-software-engineering-0e42d631713d' }] },
   { badge: "Medium", title: 'The AGI Paradox: We Might Never Realize AGI, and Here is Why', venue: 'Medium, Feb 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/the-agi-paradox-we-might-never-realize-agi-and-here-is-why-2fe71a151684' }] },
   { badge: "Medium", title: 'When Code Becomes Cheaper Than Debugging: The Rise of Ephemeral Software', venue: 'Medium, Jan 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/when-code-becomes-cheaper-than-debugging-the-rise-of-ephemeral-software-78b210aadb9d' }] },
