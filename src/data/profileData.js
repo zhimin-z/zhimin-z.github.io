@@ -54,11 +54,10 @@ export const quickNav = [
 ]
 
 export const byNumbers = [
-  { label: 'Selected Papers', value: '6+' },
   { label: 'Books', value: '4' },
-  { label: 'Open Source Contributions', value: '6+' },
-  { label: 'Teaching / TA Roles', value: '3' },
-  { label: 'Community Services', value: '3+' },
+  { label: 'Papers', value: '6+' },
+  { label: 'Teaching Roles', value: '3' },
+  { label: 'Community Services', value: '10+' },
   { label: 'Years in Industry + Research', value: '10+' }
 ]
 
