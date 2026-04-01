@@ -200,6 +200,7 @@ export const openSource = [
 ]
 
 export const community = [
+  'Web Chair, Agentic Software Engineering (KDD 2026), Workshops Track',
   'PC Member, Mining Software Repositories (MSR 2026), Mining Challenge Track',
   'External Reviewer, International Conference on Software Engineering (ICSE 2026), Industry Challenge Track',
   'Member, Institute for Ethical AI & Machine Learning'
