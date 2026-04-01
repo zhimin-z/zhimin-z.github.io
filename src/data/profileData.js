@@ -155,14 +155,14 @@ export const papers = [
     title: 'What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times',
     authors: 'Zitao Wang, Zhimin Zhao, Michael W. Godfrey',
     venue: 'Empirical Software Engineering, Under Review, 2025.',
-    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2510.11138' }]
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2510.11138' }, { label: 'code', url: 'https://github.com/Nick77666/FMware-replication-package' }]
   },
   {
     badge: "EMSE",
     title: 'The State of the SBOM Tools Ecosystem and their Prevalence in OSS: A Comparative Analysis of SPDX and CycloneDX',
     authors: 'Abdul Ali Bangash, Tongxu Ge, Zhimin Zhao, Bram Adams',
     venue: 'Empirical Software Engineering, Under Review, 2025.',
-    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2512.21781' }]
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2512.21781' }, { label: 'code', url: 'https://github.com/SAILResearch/wip-24-ali-sbom-emse' }]
   },
   {
     badge: "EMSE",
