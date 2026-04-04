@@ -125,7 +125,7 @@ export const books = [
 export const papers = [
   {
     badge: "arXiv",
-    title: 'Why Code, Why Now: Learnability, Computability, and the Real Limits of Machine Learning',
+    title: 'Why Code, Why Now: An Information-Theoretic Perspective on the Limits of Machine Learning',
     authors: 'Zhimin Zhao',
     venue: 'arXiv preprint, 2026.',
     links: [{ label: 'paper', url: 'https://arxiv.org/abs/2602.13934' }]
