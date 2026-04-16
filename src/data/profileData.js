@@ -192,6 +192,9 @@ export const demoReels = [
 
 export const openSource = [
   { title: 'Software Engineering Arena', role: 'Initiator', kind: 'organization', desc: 'An interactive platform for evaluating foundation models in software engineering through community-driven pairwise comparisons and Elo-based ranking.', url: 'https://github.com/SE-Arena/Software-Engineer-Arena' },
+  { title: 'Solo Entrepreneur', role: 'Initiator', kind: 'organization', desc: 'A community initiative building open tools, playbooks, and shared infrastructure for independent founders operating at AI-native scale.', url: 'https://github.com/Solo-Entrepreneur' },
+  { title: 'Engineered AI', role: 'Initiator', kind: 'organization', desc: 'An open collective developing engineering practices, benchmarks, and reusable systems for building reliable AI-powered software.', url: 'https://github.com/Engineering4AI' },
+  { title: 'AI4Scientist', role: 'Initiator', kind: 'organization', desc: 'An open effort exploring how AI agents and foundation models accelerate scientific discovery across disciplines.', url: 'https://github.com/AI4Scientist' },
   { title: 'Auto-Cap', role: 'Maintainer', kind: 'project', desc: 'An interactive benchmark for evaluating cost, accuracy, and performance of sparse Mixture-of-Experts systems.', url: 'https://huggingface.co/auto-cap' },
   { title: 'Awesome AI Leaderboards', role: 'Initiator', kind: 'project', desc: 'A curated list of AI leaderboards, development tools, and evaluation organizations compiled from a comprehensive survey of the leaderboard ecosystem.', url: 'https://github.com/SAILResearch/awesome-foundation-model-leaderboards' },
   { title: 'Hello Claw', role: 'Initiator', kind: 'tutorial', desc: 'A comprehensive tutorial for adopting and customizing OpenClaw, an AI command-line assistant, covering both practical usage and technical implementation from scratch.', url: 'https://github.com/datawhalechina/hello-claw' },
