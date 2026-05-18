@@ -225,7 +225,7 @@ onBeforeUnmount(() => {
       <section id="community" class="card isolated">
         <h2>💬 Community Services</h2>
         <ul class="timeline">
-          <li v-for="c in community" :key="c">{{ c }}</li>
+          <li v-for="c in community" :key="c" v-html="c"></li>
         </ul>
       </section>
 

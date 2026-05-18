@@ -198,7 +198,7 @@ export const openSource = [
   { title: 'Auto-Cap', role: 'Maintainer', kind: 'project', desc: 'An interactive benchmark for evaluating cost, accuracy, and performance of sparse Mixture-of-Experts systems.', url: 'https://huggingface.co/auto-cap' },
   { title: 'Learn Auto Research', role: 'Initiator', kind: 'project', desc: 'A hands-on open-source project for learning how to build and run AI-powered automated research workflows end to end.', url: 'https://github.com/AI4Scientist/learn-auto-research' },
   { title: 'Awesome AI Leaderboards', role: 'Initiator', kind: 'project', desc: 'A curated list of AI leaderboards, development tools, and evaluation organizations compiled from a comprehensive survey of the leaderboard ecosystem.', url: 'https://github.com/SAILResearch/awesome-foundation-model-leaderboards' },
-  { title: 'AnyCLI', role: 'Contributor', kind: 'project', desc: 'A unified registry and capability-dispatch layer that lets AI agents discover, install, and safely invoke CLI tools through a single standardized interface.', url: 'https://github.com/datawhalechina/anycli' },
+  { title: 'AnyCLI', role: 'Initiator', kind: 'project', desc: 'A unified registry and capability-dispatch layer that lets AI agents discover, install, and safely invoke CLI tools through a single standardized interface.', url: 'https://github.com/datawhalechina/anycli' },
   { title: 'Hello Claw', role: 'Initiator', kind: 'tutorial', desc: 'A comprehensive tutorial for adopting and customizing OpenClaw, an AI command-line assistant, covering both practical usage and technical implementation from scratch.', url: 'https://github.com/datawhalechina/hello-claw' },
   { title: 'Easy-Pocket', role: 'Initiator', kind: 'tutorial', desc: 'An interactive tutorial for PocketFlow, teaching developers to build chatbots, RAG systems, agents, and workflows using minimal LLM application framework abstractions.', url: 'https://github.com/datawhalechina/easy-pocket' },
   { title: 'EthicalML', role: 'Maintainer', kind: 'organization', desc: 'A community building open-source tools and curated resources for responsible, production-grade machine learning.', url: 'https://github.com/EthicalML' }
@@ -207,9 +207,11 @@ export const openSource = [
 export const community = [
   'Web Chair, Agentic Software Engineering (KDD 2026), Workshops Track',
   'PC Member, Mining Software Repositories (MSR 2026), Mining Challenge Track',
-  'External Reviewer, International Conference on Software Engineering (ICSE 2026), Industry Challenge Track',
+  'Reviewer, ICSE, FSE, ASE, IEEE TSE, ACM TOSEM, and EMSE',
   'Member, DataWhale',
-  'Member, Institute for Ethical AI & Machine Learning'
+  'Invited to publish a technical survey <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a> on Datawhale\'s official channel',
+  'Member, Institute for Ethical AI & Machine Learning',
+  'Invited Speaker, AI Innovation Programme, Victoria University of Wellington, on "From Chatbot to Agentic Peer" (Apr 2026)'
 ]
 
 export const education = [
@@ -250,9 +252,11 @@ export const teaching = {
 
 export const work = [
   { period: 'Feb 2025 - Present', text: 'Research Intern, Huawei Canada, Toronto, Canada. Supervisor: Dr. Gustavo Ansaldi Oliva.' },
+  { period: 'Apr 2026 - Present', text: 'Technical Advisor, IRMO Robotics (BUAA National Key R&D Program Commercialization), Hangzhou, China.' },
+  { period: 'Feb 2022 - Jul 2022', text: 'Research Intern, Huawei 2012 Lab, Hangzhou, China. Supervisor: Dr. Xin Xia.' },
   { period: 'Jan 2021 - Jul 2021', text: 'Visiting Scholar, Beijing Institute of Technology, Beijing, China. Supervisor: Dr. Hui Liu.' },
   { period: 'Jul 2019 - Dec 2020', text: 'Mentor, Harbour Education, Beijing, China.' },
   { period: 'Dec 2018 - Jul 2019', text: 'Software Engineer, Method Studios, Santa Monica, USA.' },
-  { period: 'Sep 2017 - Jan 2018', text: 'Software Engineer, Visual Concepts, Simi Valley, USA.' },
+  { period: 'Sep 2017 - Dec 2018', text: 'Software Engineer, Visual Concepts, Simi Valley, USA.' },
   { period: 'May 2016 - Dec 2016', text: 'Unity Developer, Imagination Vent, San Diego, USA.' }
 ]
