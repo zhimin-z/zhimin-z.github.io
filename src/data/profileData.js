@@ -160,7 +160,7 @@ export const papers = [
   {
     badge: "EMSE",
     title: 'The State of the SBOM Tools Ecosystem and their Prevalence in OSS: A Comparative Analysis of SPDX and CycloneDX',
-    authors: 'Abdul Ali Bangash, Tongxu Ge, Zhimin Zhao, Bram Adams',
+    authors: 'Zhimin Zhao, Abdul Ali Bangash, Tongxu Ge, Bram Adams',
     venue: 'Empirical Software Engineering, Under Review, 2025.',
     links: [{ label: 'paper', url: 'https://arxiv.org/abs/2512.21781' }, { label: 'code', url: 'https://github.com/SAILResearch/wip-24-ali-sbom-emse' }]
   },
