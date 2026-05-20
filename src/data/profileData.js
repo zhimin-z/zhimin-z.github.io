@@ -125,6 +125,13 @@ export const books = [
 export const papers = [
   {
     badge: "arXiv",
+    title: 'Gradual Cognitive Externalization: From Modeling Cognition to Constituting It',
+    authors: 'Zhimin Zhao',
+    venue: 'arXiv preprint, 2026.',
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2604.04387' }]
+  },
+  {
+    badge: "arXiv",
     title: 'Why Code, Why Now: An Information-Theoretic Perspective on the Limits of Machine Learning',
     authors: 'Zhimin Zhao',
     venue: 'arXiv preprint, 2026.',
