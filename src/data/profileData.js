@@ -93,7 +93,7 @@ export const books = [
     badge: "Tsinghua",
     title: '零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)',
     authors: 'Ruchun Jia, Zhimin Zhao, Shaochun Hao',
-    venue: 'Tsinghua University Press, Under Review, 2026.',
+    venue: 'Tsinghua University Press, Under Writing, 2026.',
     links: [{ label: 'code', url: 'https://github.com/zhimin-z/aliyun_bailian' }]
   },
   {
