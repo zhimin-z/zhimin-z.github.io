@@ -241,7 +241,7 @@ onBeforeUnmount(() => {
       <section id="honors" class="card isolated">
         <h2>🎖 Honors and Awards</h2>
         <ul class="timeline">
-          <li v-for="h in honors" :key="h">{{ h }}</li>
+          <li v-for="h in honors" :key="h" v-html="h"></li>
         </ul>
       </section>
 

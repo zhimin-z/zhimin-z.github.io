@@ -240,6 +240,7 @@ export const education = [
 ]
 
 export const honors = [
+  'Datawhale Industry Certifications: <a href="/certificates/Fine-tune Engineer.png" target="_blank">Fine-tuning Engineer</a> · <a href="/certificates/Prompt Engineer.png" target="_blank">Prompt Engineer</a> · <a href="/certificates/Agent Engineer.png" target="_blank">Agent Engineer</a> · <a href="/certificates/LLM Engineer.png" target="_blank">LLM Engineer</a> · <a href="/certificates/Model Development Engineer.png" target="_blank">Model Development Engineer</a> · <a href="/certificates/AI Coding.png" target="_blank">AI+Coding</a> · <a href="/certificates/Data Analysis.png" target="_blank">AI+Data Analysis</a>',
   '2024 Platinum Prize, Poster Track, Software Engineering for Machine Learning Applications (SEMLA)',
   '2020 Outstanding Mentor, American Top Education Elite Plan, Harbour Education',
   '2016 Shortlisted, Chunhui Cup Oversea Students Innovation and Entrepreneurship Competition, Ministry of Education & Ministry of Science and Technology, China',
