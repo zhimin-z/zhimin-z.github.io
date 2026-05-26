@@ -206,6 +206,7 @@ export const demoReels = [
 
 export const openSource = [
   { title: 'Software Engineering Arena', role: 'Initiator', kind: 'organization', desc: 'An interactive platform for evaluating foundation models in software engineering through community-driven pairwise comparisons and Elo-based ranking.', url: 'https://github.com/SE-Arena/Software-Engineer-Arena' },
+  { title: 'Learn World Model', role: 'Initiator', kind: 'tutorial', desc: 'A hands-on tutorial for understanding and building world models, covering the core concepts, architectures, and training techniques behind model-based agents and video generation.', url: 'https://github.com/datawhalechina/learn-world-model' },
   { title: 'Solo Entrepreneur', role: 'Initiator', kind: 'organization', desc: 'A community initiative building open tools, playbooks, and shared infrastructure for independent founders operating at AI-native scale.', url: 'https://github.com/Solo-Entrepreneur' },
   { title: 'Engineered AI', role: 'Initiator', kind: 'organization', desc: 'An open collective developing engineering practices, benchmarks, and reusable systems for building reliable AI-powered software.', url: 'https://github.com/Engineering4AI' },
   { title: 'AI4Scientist', role: 'Initiator', kind: 'organization', desc: 'An open effort exploring how AI agents and foundation models accelerate scientific discovery across disciplines.', url: 'https://github.com/AI4Scientist' },
