@@ -124,6 +124,13 @@ export const books = [
 
 export const papers = [
   {
+    badge: "TOSEM",
+    title: 'Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild',
+    authors: 'Zhimin Zhao, Zehao Wang, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan',
+    venue: 'ACM Transactions on Software Engineering and Methodology, Under Review (2026). [CORE A*]',
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2605.24213' }]
+  },
+  {
     badge: "arXiv",
     title: 'Gradual Cognitive Externalization: From Modeling Cognition to Constituting It',
     authors: 'Zhimin Zhao',
