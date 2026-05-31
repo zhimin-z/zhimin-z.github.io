@@ -223,10 +223,10 @@ export const community = [
   'Web Chair, Agentic Software Engineering (KDD 2026), Workshops Track',
   'PC Member, Mining Software Repositories (MSR 2026), Mining Challenge Track',
   'Reviewer, ICSE, FSE, ASE, IEEE TSE, ACM TOSEM, and EMSE',
-  'Member, DataWhale',
-  'Invited to publish a technical survey <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a> on Datawhale\'s official channel',
-  'Member, Institute for Ethical AI & Machine Learning',
-  'Invited Speaker, AI Innovation Programme, Victoria University of Wellington, on "From Chatbot to Agentic Peer" (Apr 2026)'
+  'Member, <a href="https://github.com/datawhalechina">Datawhale</a>, authoring and maintaining open-source educational materials on machine learning; invited to publish technical surveys <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a> and <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a> on Datawhale\'s official channel',
+  'Member, <a href="https://github.com/EthicalML">Institute for Ethical AI & Machine Learning</a>',
+  'Invited Speaker, <a href="https://www.linkedin.com/posts/susie-hsing-47b649353_ai-innovation-wellington-ugcPost-7449768087387541504-AnW2/">AI Innovation Programme</a>, Victoria University of Wellington, on "From Chatbot to Agentic Peer" (Apr 2026)',
+  'Invited Speaker, <a href="https://github.com/datawhalechina">Datawhale</a> "Programmers Meet Up" online talk, on "Distilling Anxiety: AI\'s Impact on Software Engineers, Career Repositioning, and Interview Strategy" (Apr 2025)'
 ]
 
 export const education = [
