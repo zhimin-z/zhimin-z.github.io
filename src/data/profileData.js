@@ -90,27 +90,6 @@ export const highlights = [
 
 export const books = [
   {
-    badge: "Tsinghua",
-    title: '零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)',
-    authors: 'Ruchun Jia, Zhimin Zhao, Shaochun Hao',
-    venue: 'Tsinghua University Press, Under Writing, 2026.',
-    links: [{ label: 'code', url: 'https://github.com/zhimin-z/aliyun_bailian' }]
-  },
-  {
-    badge: "Tsinghua",
-    title: '从DeepSeek到Manus：大模型与多智能体系统原理与实践 (From DeepSeek to Manus: Principles and Practice of Large Models and Multi-Agent Systems)',
-    authors: 'Ruchun Jia, Zhimin Zhao',
-    venue: 'Tsinghua University Press, Under Review, 2025.',
-    links: [{ label: 'code', url: 'https://github.com/zhimin-z/deepseek_manus' }]
-  },
-  {
-    badge: "Tsinghua",
-    title: '生成式人工智能：核心原理与应用 (Generative Artificial Intelligence: Core Principles and Applications)',
-    authors: 'Ruchun Jia, Qi Wang, Zhimin Zhao',
-    venue: 'Tsinghua University Press, Under Review, 2025.',
-    links: [{ label: 'code', url: 'https://github.com/qiwang067/genai_cn' }]
-  },
-  {
     badge: "Datawhale",
     title: '钥匙书：机器学习理论导引讲解 (Key Book: A Guide to Machine Learning Theory)',
     authors: 'Zhimin Zhao, Hao Zhan',
@@ -119,6 +98,27 @@ export const books = [
       { label: 'online', url: 'https://datawhalechina.github.io/key-book' },
       { label: 'pdf', url: 'https://github.com/datawhalechina/key-book/releases/download/preview/key_book.pdf' }
     ]
+  },
+  {
+    badge: "Tsinghua",
+    title: '零基础AI实战指南：基于阿里云百炼的大模型应用开发 (Zero-to-Hero AI Practical Guide: LLM Application Development on Alibaba Cloud Bailian)',
+    authors: 'Ruchun Jia, Zhimin Zhao, Shaochun Hao',
+    venue: 'Tsinghua University Press, Under Writing, 2026.',
+    links: [{ label: 'pdf [unpublished]', url: 'https://github.com/zhimin-z/aliyun_bailian' }]
+  },
+  {
+    badge: "Tsinghua",
+    title: '从DeepSeek到Manus：大模型与多智能体系统原理与实践 (From DeepSeek to Manus: Principles and Practice of Large Models and Multi-Agent Systems)',
+    authors: 'Ruchun Jia, Zhimin Zhao',
+    venue: 'Tsinghua University Press, Under Review, 2025.',
+    links: [{ label: 'pdf [unpublished]', url: 'https://github.com/zhimin-z/deepseek_manus' }]
+  },
+  {
+    badge: "Tsinghua",
+    title: '生成式人工智能：核心原理与应用 (Generative Artificial Intelligence: Core Principles and Applications)',
+    authors: 'Ruchun Jia, Qi Wang, Zhimin Zhao',
+    venue: 'Tsinghua University Press, Under Review, 2025.',
+    links: [{ label: 'pdf [unpublished]', url: 'https://github.com/qiwang067/genai_cn' }]
   }
 ]
 
