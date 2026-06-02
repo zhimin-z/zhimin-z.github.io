@@ -4,7 +4,7 @@ export const profile = {
   email: 'z DOT zhao AT queensu DOT ca',
   title: "PhD Candidate",
   subtitle:
-    "Working with Dr. Ahmed E. Hassan (ACM/IEEE Fellow) at the intersection of AI and SE.",
+    "Working with Dr. Ahmed E. Hassan (ACM/IEEE/AAIA Fellow) at the intersection of AI and SE.",
   tags: ['AI4SE', 'SE4AI', 'LLMOps', 'MLOps', 'LLM4Code'],
   intro:
     "I work on making AI systems more reliable and software engineering more intelligent. Previously, I earned my Master's degree from CG@Penn and my Bachelor's degree from ISC@BIT.",
@@ -232,7 +232,7 @@ export const community = [
 export const education = [
   {
     period: '2021 - (now)',
-    text: "Ph.D. Candidate in Computer Science, Queen's University, Canada. Supervisor: Dr. Ahmed E. Hassan (ACM/IEEE Fellow).",
+    text: "Ph.D. Candidate in Computer Science, Queen's University, Canada. Supervisor: Dr. Ahmed E. Hassan.",
     url: 'https://www.queensu.ca'
   },
   {
