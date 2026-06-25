@@ -191,6 +191,7 @@ export const papers = [
 ]
 
 export const blogs = [
+  { badge: "Medium", title: 'Hypotheses Behind Modern Machine Learning', venue: 'Medium, Jun 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/hypotheses-behind-modern-machine-learning-ad7c537c8e96' }] },
   { badge: "Medium", title: 'Self-Improving AI: Real Progress, Hard Limits, Open Bets', venue: 'Medium, Jun 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/self-improving-ai-real-progress-hard-limits-open-bets-18254dce6173' }] },
   { badge: "Medium", title: 'Beyond Pattern Matching: How World Models Will Transform AI', venue: 'Medium, Jun 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/beyond-pattern-matching-how-world-models-will-transform-ai-bbd58b8a54ab' }] },
   { badge: "Medium", title: 'The Interface Tax: Why AI Is Abandoning the GUI', venue: 'Medium, Mar 2026.', links: [{ label: 'blog', url: 'https://medium.com/@zhiminzhao/why-the-best-ai-developer-tools-look-like-1975-71c73c9da7ec' }] },
