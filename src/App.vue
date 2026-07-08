@@ -56,21 +56,97 @@ const closeDrawer = () => {
   drawerOpen.value = false
 }
 
+const collator = new Intl.Collator('en', { sensitivity: 'base', numeric: true })
+const nowSortValue = 999999
+
+const titleOf = (item) => item.title || item.label || item.text || String(item)
+
+const yearMonthValue = (year, month = 12) => Number(year) * 100 + month
+
+const monthNumber = (month) => {
+  const months = {
+    jan: 1,
+    feb: 2,
+    mar: 3,
+    apr: 4,
+    may: 5,
+    jun: 6,
+    jul: 7,
+    aug: 8,
+    sep: 9,
+    oct: 10,
+    nov: 11,
+    dec: 12
+  }
+
+  return months[month.toLowerCase().slice(0, 3)] || 12
+}
+
+const dateValueFromText = (text = '') => {
+  if (/\b(now|present)\b/i.test(text)) {
+    return nowSortValue
+  }
+
+  const monthYearMatches = [...text.matchAll(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{4})\b/gi)]
+  if (monthYearMatches.length) {
+    const latest = monthYearMatches.at(-1)
+    return yearMonthValue(latest[2], monthNumber(latest[1]))
+  }
+
+  const years = [...text.matchAll(/\b(20\d{2}|19\d{2})\b/g)].map((match) => Number(match[1]))
+  if (years.length) {
+    return yearMonthValue(Math.max(...years))
+  }
+
+  const shortYears = [...text.matchAll(/['’](\d{2})\b/g)].map((match) => 2000 + Number(match[1]))
+  if (shortYears.length) {
+    return yearMonthValue(Math.max(...shortYears))
+  }
+
+  return null
+}
+
+const sortByDateThenAlpha = (items, textForDate = titleOf) =>
+  [...items].sort((a, b) => {
+    const aDate = dateValueFromText(textForDate(a))
+    const bDate = dateValueFromText(textForDate(b))
+
+    if (aDate !== null && bDate !== null && aDate !== bDate) {
+      return bDate - aDate
+    }
+
+    if (aDate !== null && bDate === null) {
+      return -1
+    }
+
+    if (aDate === null && bDate !== null) {
+      return 1
+    }
+
+    return collator.compare(titleOf(a), titleOf(b))
+  })
+
+const sortedHighlights = computed(() => sortByDateThenAlpha(highlights, (item) => `${item.title} ${item.desc}`))
+const sortedBooks = computed(() => sortByDateThenAlpha(books, (item) => `${item.venue} ${item.title}`))
+const sortedPapers = computed(() => sortByDateThenAlpha(papers, (item) => `${item.venue} ${item.title}`))
+const sortedBlogs = computed(() => sortByDateThenAlpha(blogs, (item) => item.venue))
+const sortedCommunity = computed(() => sortByDateThenAlpha(community, (item) => item))
+const sortedEducation = computed(() => sortByDateThenAlpha(education, (item) => item.period))
+const sortedHonors = computed(() => sortByDateThenAlpha(honors, (item) => item))
+const sortedTeachingQueens = computed(() => sortByDateThenAlpha(teaching.queens, (item) => item.text))
+const sortedTeachingPenn = computed(() => sortByDateThenAlpha(teaching.penn, (item) => item.text))
+const sortedWork = computed(() => sortByDateThenAlpha(work, (item) => item.period))
+
 const openSourceGroups = computed(() => [
   {
     key: 'organization',
     title: 'Organizations',
-    items: openSource.filter((item) => item.kind === 'organization')
+    items: sortByDateThenAlpha(openSource.filter((item) => item.kind === 'organization'), (item) => item.desc)
   },
   {
     key: 'project',
     title: 'Projects',
-    items: openSource.filter((item) => item.kind === 'project')
-  },
-  {
-    key: 'tutorial',
-    title: 'Open Source Tutorials',
-    items: openSource.filter((item) => item.kind === 'tutorial')
+    items: sortByDateThenAlpha(openSource.filter((item) => item.kind !== 'organization'), (item) => item.desc)
   }
 ])
 
@@ -148,7 +224,7 @@ onBeforeUnmount(() => {
         <h2>🚀 Research Highlights</h2>
         <p class="section-intro">Core research questions and flagship projects.</p>
         <div class="grid3">
-          <article class="project-card clickable" v-for="h in highlights" :key="h.title" @click="openDrawer('highlight', h)">
+          <article class="project-card clickable" v-for="h in sortedHighlights" :key="h.title" @click="openDrawer('highlight', h)">
             <h3>{{ h.title }}</h3>
             <p>{{ h.desc }}</p>
             <div class="links">
@@ -173,7 +249,7 @@ onBeforeUnmount(() => {
       <section id="books" class="card isolated">
         <h2>📚 Books</h2>
         <p class="section-intro">Long-form teaching and knowledge packaging.</p>
-        <article class="entry clickable" v-for="b in books" :key="b.title" @click="openDrawer('book', b)">
+        <article class="entry clickable" v-for="b in sortedBooks" :key="b.title" @click="openDrawer('book', b)">
           <div class="badge">{{ b.badge }}</div>
           <h3>{{ b.title }}</h3>
           <p class="muted">{{ b.authors }}</p>
@@ -186,7 +262,7 @@ onBeforeUnmount(() => {
 
       <section id="papers" class="card isolated">
         <h2>📝 Papers</h2>
-        <article class="entry clickable" v-for="p in papers" :key="p.title" @click="openDrawer('paper', p)">
+        <article class="entry clickable" v-for="p in sortedPapers" :key="p.title" @click="openDrawer('paper', p)">
           <div class="badge">{{ p.badge }}</div>
           <h3>{{ p.title }}</h3>
           <p class="muted">{{ p.authors }}</p>
@@ -199,7 +275,7 @@ onBeforeUnmount(() => {
 
       <section id="blogs" class="card isolated">
         <h2>📝 Blogs</h2>
-        <article class="entry clickable" v-for="b in blogs" :key="b.title" @click="openDrawer('blog', b)">
+        <article class="entry clickable" v-for="b in sortedBlogs" :key="b.title" @click="openDrawer('blog', b)">
           <div class="badge">{{ b.badge }}</div>
           <h3>{{ b.title }}</h3>
           <p>{{ b.venue }}</p>
@@ -225,14 +301,14 @@ onBeforeUnmount(() => {
       <section id="community" class="card isolated">
         <h2>💬 Community Services</h2>
         <ul class="timeline">
-          <li v-for="c in community" :key="c" v-html="c"></li>
+          <li v-for="c in sortedCommunity" :key="c" v-html="c"></li>
         </ul>
       </section>
 
       <section id="education" class="card isolated">
         <h2>📖 Educations</h2>
         <ul class="timeline">
-          <li v-for="e in education" :key="e.period + e.text">
+          <li v-for="e in sortedEducation" :key="e.period + e.text">
             <strong>{{ e.period }}</strong> — {{ e.text }}
           </li>
         </ul>
@@ -241,7 +317,7 @@ onBeforeUnmount(() => {
       <section id="honors" class="card isolated">
         <h2>🎖 Honors and Awards</h2>
         <ul class="timeline">
-          <li v-for="h in honors" :key="h" v-html="h"></li>
+          <li v-for="h in sortedHonors" :key="h" v-html="h"></li>
         </ul>
       </section>
 
@@ -249,18 +325,18 @@ onBeforeUnmount(() => {
         <h2>📐 Teaching Experience</h2>
         <h3>Queen's University</h3>
         <ul class="timeline">
-          <li v-for="t in teaching.queens" :key="t.text">{{ t.text }}</li>
+          <li v-for="t in sortedTeachingQueens" :key="t.text">{{ t.text }}</li>
         </ul>
         <h3>University of Pennsylvania</h3>
         <ul class="timeline">
-          <li v-for="t in teaching.penn" :key="t.text">{{ t.text }}</li>
+          <li v-for="t in sortedTeachingPenn" :key="t.text">{{ t.text }}</li>
         </ul>
       </section>
 
       <section id="work" class="card isolated">
         <h2>📊 Working Experience</h2>
         <ul class="timeline">
-          <li v-for="w in work" :key="w.period + w.text">
+          <li v-for="w in sortedWork" :key="w.period + w.text">
             <strong>{{ w.period }}</strong> — {{ w.text }}
           </li>
         </ul>
