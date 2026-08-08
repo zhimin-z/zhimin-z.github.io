@@ -125,9 +125,10 @@ const organizations = openSource.filter((item) => item.kind === 'organization')
 
     <section id="writing">
       <h2>Selected Writing</h2>
-      <ul class="dated-list">
+      <ul class="writing-list">
         <li v-for="post in blogs" :key="post.title">
-          <a :href="post.links[0].url">{{ post.title }}</a><span>{{ post.venue }}</span>
+          <a :href="post.links[0].url"><strong>{{ post.title }}</strong></a>.
+          <span>{{ post.venue }}</span>
         </li>
       </ul>
     </section>

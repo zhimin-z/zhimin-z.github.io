@@ -105,6 +105,15 @@ ul, ol { margin-top: 0; }
 .item-links { white-space: nowrap; }
 .item-links a { margin-left: 5px; font-size: 13px; }
 
+.writing-list {
+  padding-left: 21px;
+  font-size: 14.5px;
+  line-height: 1.62;
+}
+.writing-list li { margin: 0 0 10px; padding-left: 3px; }
+.writing-list strong { font-weight: 650; }
+.writing-list span { color: #66635e; }
+
 .dated-list { list-style: none; padding: 0; font-size: 14.5px; line-height: 1.55; }
 .dated-list li { display: grid; grid-template-columns: 165px 1fr; gap: 18px; margin: 8px 0; }
 .dated-list time, .dated-list li > span:last-child { color: #66635e; }
