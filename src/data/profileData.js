@@ -230,6 +230,7 @@ export const community = [
   'Web Chair, Agentic Software Engineering (KDD 2026), Workshops Track',
   'PC Member, Mining Software Repositories (MSR 2026), Mining Challenge Track',
   'Reviewer, ICSE, FSE, ASE, IEEE TSE, ACM TOSEM, and EMSE',
+  'Commissioned by <a href="https://github.com/datawhalechina">Datawhale</a> to write technical articles, including <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">Understanding the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a>, and <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, <strong>[100k+ reads]</strong>',
   'Member, <a href="https://github.com/datawhalechina">Datawhale</a>, authoring and maintaining open-source educational materials on machine learning; invited to publish technical surveys <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a> and <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a> on Datawhale\'s official channel',
   'Member, <a href="https://github.com/EthicalML">Institute for Ethical AI & Machine Learning</a>',
   'Invited Speaker, <a href="https://www.linkedin.com/posts/susie-hsing-47b649353_ai-innovation-wellington-ugcPost-7449768087387541504-AnW2/">AI Innovation Programme</a>, Victoria University of Wellington, on "From Chatbot to Agentic Peer" (Apr 2026)',
@@ -275,6 +276,7 @@ export const teaching = {
 }
 
 export const work = [
+  { period: 'Sep 2026 - Present', text: 'World Model Research Intern, Institute of Automation, Chinese Academy of Sciences / Qiyuan Lab.' },
   { period: 'Apr 2026 - Present', text: 'Technical Advisor, IRMO Robotics (BUAA National Key R&D Program Commercialization), Hangzhou, China.' },
   { period: 'Feb 2025 - May 2026', text: 'Research Intern, Huawei Canada, Toronto, Canada. Supervisor: Dr. Gustavo Ansaldi Oliva.' },
   { period: 'Feb 2022 - Jul 2022', text: 'Research Intern, Huawei 2012 Lab, Hangzhou, China. Supervisor: Dr. Xin Xia.' },
