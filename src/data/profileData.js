@@ -55,7 +55,7 @@ export const quickNav = [
 
 export const byNumbers = [
   { label: 'Books', value: '4' },
-  { label: 'Papers', value: '6' },
+  { label: 'Papers', value: '7' },
   { label: 'Teaching Roles', value: '3' },
   { label: 'Community Services', value: '10+' },
   { label: 'Years in Industry + Research', value: '10+' }
@@ -123,6 +123,13 @@ export const books = [
 ]
 
 export const papers = [
+  {
+    badge: "arXiv",
+    title: 'SkillShield: Prompt-Space Security Skills for LLM Coding Agents',
+    authors: 'Xiaodong Wu, Zhimin Zhao, Qi Li, Xiangman Li, Yu Shi, Bram Adams, Jianbing Ni',
+    venue: 'arXiv preprint, 2026.',
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2608.25817' }]
+  },
   {
     badge: "TOSEM",
     title: 'Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild',
