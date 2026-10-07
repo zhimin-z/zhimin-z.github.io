@@ -287,10 +287,10 @@ export const work = [
   { period: 'Sep 2026 - Present', text: 'World Model Research Intern, Institute of Automation, Chinese Academy of Sciences / Qiyuan Lab.' },
   { period: 'Apr 2026 - Present', text: 'Technical Advisor, IRMO Robotics (BUAA National Key R&D Program Commercialization), Hangzhou, China.' },
   { period: 'Feb 2025 - May 2026', text: 'Research Intern, Huawei Canada, Toronto, Canada. Supervisor: Dr. Gustavo Ansaldi Oliva.' },
-  { period: 'Feb 2022 - Jul 2022', text: 'Research Intern, Huawei 2012 Lab, Hangzhou, China. Supervisor: Dr. Xin Xia.' },
-  { period: 'Jan 2021 - Jul 2021', text: 'Visiting Scholar, Beijing Institute of Technology, Beijing, China. Supervisor: Dr. Hui Liu.' },
-  { period: 'Jul 2019 - Dec 2020', text: 'Mentor, Harbour Education, Beijing, China.' },
-  { period: 'Dec 2018 - Jul 2019', text: 'Software Engineer, Method Studios, Santa Monica, USA.' },
-  { period: 'Sep 2017 - Dec 2018', text: 'Software Engineer, Visual Concepts, Simi Valley, USA.' },
-  { period: 'May 2016 - Dec 2016', text: 'Unity Developer, Imagination Vent, San Diego, USA.' }
+  // { period: 'Feb 2022 - Jul 2022', text: 'Research Intern, Huawei 2012 Lab, Hangzhou, China. Supervisor: Dr. Xin Xia.' },
+  // { period: 'Jan 2021 - Jul 2021', text: 'Visiting Scholar, Beijing Institute of Technology, Beijing, China. Supervisor: Dr. Hui Liu.' },
+  // { period: 'Jul 2019 - Dec 2020', text: 'Mentor, Harbour Education, Beijing, China.' },
+  // { period: 'Dec 2018 - Jul 2019', text: 'Software Engineer, Method Studios, Santa Monica, USA.' },
+  // { period: 'Sep 2017 - Dec 2018', text: 'Software Engineer, Visual Concepts, Simi Valley, USA.' },
+  // { period: 'May 2016 - Dec 2016', text: 'Unity Developer, Imagination Vent, San Diego, USA.' }
 ]
