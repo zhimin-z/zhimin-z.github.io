@@ -126,9 +126,16 @@ export const papers = [
   {
     badge: "arXiv",
     title: 'SkillShield: Prompt-Space Security Skills for LLM Coding Agents',
-    authors: 'Xiaodong Wu, Zhimin Zhao, Qi Li, Xiangman Li, Yu Shi, Bram Adams, Jianbing Ni',
+    authors: 'Xiaodong Wu and Zhimin Zhao contributed equally; Qi Li, Xiangman Li, Yu Shi, Bram Adams, Jianbing Ni',
     venue: 'arXiv preprint, 2026.',
     links: [{ label: 'paper', url: 'https://arxiv.org/abs/2608.25817' }]
+  },
+  {
+    badge: "arXiv",
+    title: 'EVOMAL: Self-Poisoning in Self-Evolving Coding Agents',
+    authors: 'Xiaodong Wu, Yu Shi, Qi Li, Zhimin Zhao, Xiangman Li, Bram Adams, Ahmed E. Hassan, Jianbing Ni',
+    venue: 'arXiv preprint, 2026.',
+    links: [{ label: 'paper', url: 'https://arxiv.org/abs/2608.25776' }]
   },
   {
     badge: "TOSEM",
@@ -239,7 +246,7 @@ export const community = [
   'Reviewer, ICSE, FSE, ASE, IEEE TSE, ACM TOSEM, and EMSE',
   'Commissioned by <a href="https://github.com/datawhalechina">Datawhale</a> to write technical articles, including <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">Understanding the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a>, and <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, <strong>[100k+ reads]</strong>',
   'Judge, <a href="https://github.com/datawhalechina">Datawhale</a> Online Hackathon, First Edition',
-    'Member, <a href="https://github.com/datawhalechina">Datawhale</a>, authoring and maintaining open-source educational materials on machine learning; invited to publish technical articles on Datawhale\'s official channel: <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">A Guide to the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a> (100K+ views), <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, and <a href="https://mp.weixin.qq.com/s/rlfTKyWhALsNONhAwGih1A">A Beginner-Friendly Survey on RSI</a>',
+  'Member, <a href="https://github.com/datawhalechina">Datawhale</a>, authoring and maintaining open-source educational materials on machine learning; invited to publish technical articles on Datawhale\'s official channel: <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">A Guide to the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a> (100K+ views), <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, and <a href="https://mp.weixin.qq.com/s/rlfTKyWhALsNONhAwGih1A">A Beginner-Friendly Survey on RSI</a>',
   'Member, <a href="https://github.com/EthicalML">Institute for Ethical AI & Machine Learning</a>',
   'Invited Speaker, <a href="https://www.linkedin.com/posts/susie-hsing-47b649353_ai-innovation-wellington-ugcPost-7449768087387541504-AnW2/">AI Innovation Programme</a>, Victoria University of Wellington, on "From Chatbot to Agentic Peer" (Apr 2026)',
   'Invited Speaker, <a href="https://github.com/datawhalechina">Datawhale</a> "Programmers Meet Up" online talk, on "Distilling Anxiety: AI\'s Impact on Software Engineers, Career Repositioning, and Interview Strategy" (Apr 2025)'
