@@ -243,7 +243,7 @@ export const openSource = [
 export const community = [
   'Web Chair, Agentic Software Engineering (KDD 2026), Workshops Track',
   'PC Member, Mining Software Repositories (MSR 2026), Mining Challenge Track',
-  'Reviewer, ICSE, FSE, ASE, IEEE TSE, ACM TOSEM, and EMSE',
+  'Reviewer, JMIR, ICSE, FSE, ASE, TSE, TOSEM, and EMSE',
   'Commissioned by <a href="https://github.com/datawhalechina">Datawhale</a> to write technical articles, including <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">Understanding the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a>, and <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, <strong>[100k+ reads]</strong>',
   'Judge, <a href="https://github.com/datawhalechina">Datawhale</a> Online Hackathon, First Edition',
   'Member, <a href="https://github.com/datawhalechina">Datawhale</a>, authoring and maintaining open-source educational materials on machine learning; invited to publish technical articles on Datawhale\'s official channel: <a href="https://mp.weixin.qq.com/s/Djcijog-uIO1GvVeMANYHQ">A Guide to the Six Mainstream Approaches to Physical AI</a>, <a href="https://mp.weixin.qq.com/s/oPyYUf7bu5D1zUIOwKHKUw">A Beginner-Friendly Survey on World Models</a> (100K+ views), <a href="https://mp.weixin.qq.com/s/yP1zkKSnVf6MtikHmzhV_w">AGI Panorama: A Survey of Artificial General Intelligence</a>, and <a href="https://mp.weixin.qq.com/s/rlfTKyWhALsNONhAwGih1A">A Beginner-Friendly Survey on RSI</a>',
