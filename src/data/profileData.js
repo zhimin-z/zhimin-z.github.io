@@ -293,7 +293,7 @@ export const teaching = {
 export const work = [
   { period: 'Sep 2026 - Present', text: 'World Model Research Intern, Institute of Automation, Chinese Academy of Sciences.' },
   { period: 'Jun 2026 - Present', text: 'Technical Advisor, IRMO Robotics (BUAA National Key R&D Program Commercialization), Hangzhou, China.' },
-  { period: 'Feb 2025 - May 2026', text: 'Research Intern, Huawei Canada, Toronto, Canada. Supervisor: Dr. Gustavo Ansaldi Oliva.' },
+  // { period: 'Feb 2025 - May 2026', text: 'Research Intern, Huawei Canada, Toronto, Canada. Supervisor: Dr. Gustavo Ansaldi Oliva.' },
   // { period: 'Feb 2022 - Jul 2022', text: 'Research Intern, Huawei 2012 Lab, Hangzhou, China. Supervisor: Dr. Xin Xia.' },
   // { period: 'Jan 2021 - Jul 2021', text: 'Visiting Scholar, Beijing Institute of Technology, Beijing, China. Supervisor: Dr. Hui Liu.' },
   // { period: 'Jul 2019 - Dec 2020', text: 'Mentor, Harbour Education, Beijing, China.' },
